@@ -21,6 +21,7 @@ const CATEGORY_LABELS: Record<string, string> = {
   museum: "FIFA Museum",
   host: "Host / Tournament",
   brand: "Brand / Emblem",
+  coca_cola: "Coca-Cola Promo",
 };
 
 export function StickerDetail({ sticker, owned, hasUserPhoto, onClose, onUpdated }: StickerDetailProps) {
@@ -70,6 +71,9 @@ export function StickerDetail({ sticker, owned, hasUserPhoto, onClose, onUpdated
           {sticker.code} · {sticker.country} · {CATEGORY_LABELS[sticker.category] ?? sticker.category}
           {sticker.rarity === "foil" ? " · Foil" : ""}
         </p>
+        {sticker.regionalNote && (
+          <p className="mt-1 text-xs text-amber-400/90">{sticker.regionalNote}</p>
+        )}
 
         <div className="mt-4 flex items-center justify-center gap-4">
           <button

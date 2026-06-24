@@ -1,5 +1,6 @@
 import { useMemo, useState } from "react";
 import type { StickerWithState } from "../types";
+import { compareByAlbumGroupOrder, formatAlbumOrderExport, formatCountryHeading } from "../lib/worldCupGroups";
 import { StickerCard } from "./StickerCard";
 
 interface MissingListProps {
@@ -32,10 +33,15 @@ export function MissingList({ stickers, photoCodes }: MissingListProps) {
       list.push(s);
       map.set(s.country, list);
     }
-    return [...map.entries()].sort(([a], [b]) => a.localeCompare(b));
+    for (const list of map.values()) {
+      list.sort((a, b) => a.albumOrder - b.albumOrder);
+    }
+    return [...map.entries()].sort(([, listA], [, listB]) =>
+      compareByAlbumGroupOrder(listA[0], listB[0]),
+    );
   }, [missing]);
 
-  const exportText = missing.map((s) => s.code).join(", ");
+  const exportText = useMemo(() => formatAlbumOrderExport(missing), [missing]);
 
   const copyList = async () => {
     await navigator.clipboard.writeText(exportText);
@@ -75,7 +81,7 @@ export function MissingList({ stickers, photoCodes }: MissingListProps) {
         byCountry.map(([country, list]) => (
           <section key={country}>
             <h3 className="mb-2 text-sm font-semibold text-slate-300">
-              {country} ({list.length})
+              {formatCountryHeading(list[0])} ({list.length})
             </h3>
             <div className="grid grid-cols-1 gap-2">
               {list.map((s) => (

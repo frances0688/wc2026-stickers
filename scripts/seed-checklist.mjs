@@ -5,6 +5,7 @@ import { fileURLToPath } from "node:url";
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const root = join(__dirname, "..");
 const source = readFileSync(join(__dirname, "checklist-source.txt"), "utf-8");
+const cocaCola = JSON.parse(readFileSync(join(__dirname, "coca-cola-stickers.json"), "utf-8"));
 
 const CATEGORY_MAP = {
   "Team Badge": "team_logo",
@@ -15,24 +16,25 @@ const CATEGORY_MAP = {
   "FIFA Museum": "museum",
 };
 
-const SPECIAL_TEAMS = new Set([
-  "We Are Panini",
-  "FIFA World Cup 2026",
-  "Host Countries & Cities",
-  "Collection",
-  "FIFA World Cup 2026",
-]);
-
 function parseCode(raw) {
   if (raw === "00") return { code: "00", teamCode: "PANINI", slot: null };
   const fwc = raw.match(/^FWC(\d{1,2})$/);
   if (fwc) return { code: raw, teamCode: "FWC", slot: Number(fwc[1]) };
+  const cc = raw.match(/^CC(\d{1,2})$/);
+  if (cc) return { code: raw, teamCode: "CC", slot: Number(cc[1]) };
   const team = raw.match(/^([A-Z]{3})(\d{1,2})$/);
   if (team) return { code: raw, teamCode: team[1], slot: Number(team[2]) };
   return { code: raw, teamCode: raw.replace(/\d+$/, ""), slot: null };
 }
 
-function inferCategory(categoryLabel, title) {
+function inferSection(code, teamCode) {
+  if (teamCode === "FWC" || code === "00") return "fwc";
+  if (teamCode === "CC") return "coca_cola";
+  return "teams";
+}
+
+function inferCategory(categoryLabel, title, teamCode) {
+  if (teamCode === "CC") return "coca_cola";
   if (CATEGORY_MAP[categoryLabel]) return CATEGORY_MAP[categoryLabel];
   const lower = title.toLowerCase();
   if (lower.includes("team logo") || lower.includes("emblem")) return "team_logo";
@@ -55,13 +57,15 @@ const lineRe =
   /^\d+\.\s+(\S+)\s+(.+?)\s+·\s+([^·]+?)\s+·\s+(Foil|Base)(?:\s+·\s+Player:\s+.+)?$/;
 
 let currentCountry = "Special";
+let currentGroup = null;
 const stickers = [];
 const seen = new Set();
 
 for (const line of source.split("\n")) {
-  const header = line.match(/^([A-Za-zÀ-ÿ' .]+)Group [A-L]/);
+  const header = line.match(/^([A-Za-zÀ-ÿ' .]+)Group ([A-L])/);
   if (header) {
     currentCountry = header[1].trim();
+    currentGroup = header[2];
     continue;
   }
   if (line.startsWith("CollectionOther")) {
@@ -81,7 +85,7 @@ for (const line of source.split("\n")) {
   seen.add(codeRaw);
 
   const { code, teamCode, slot } = parseCode(codeRaw);
-  const category = inferCategory(categoryLabel.trim(), title);
+  const category = inferCategory(categoryLabel.trim(), title, teamCode);
   const country = extractCountry(title, currentCountry);
   const name = title.includes(" - ") ? title.split(" - ")[0].trim() : title.trim();
 
@@ -91,7 +95,9 @@ for (const line of source.split("\n")) {
     slot,
     name: name === code ? title.split(" - ")[0] : name,
     country,
+    group: inferSection(code, teamCode) === "teams" ? currentGroup : null,
     category,
+    section: inferSection(code, teamCode),
     rarity: rarityLabel.toLowerCase() === "foil" ? "foil" : "base",
     albumOrder: stickers.length,
     imagePath: `/stickers/${code}.webp`,
@@ -101,6 +107,26 @@ for (const line of source.split("\n")) {
 if (stickers.length < 900) {
   console.error(`Only parsed ${stickers.length} stickers — expected ~980`);
   process.exit(1);
+}
+
+for (const entry of cocaCola) {
+  if (seen.has(entry.code)) continue;
+  seen.add(entry.code);
+  const regionalNote = [entry.usVariant, entry.note].filter(Boolean).join(" · ") || undefined;
+  stickers.push({
+    code: entry.code,
+    teamCode: "CC",
+    slot: Number(entry.code.replace("CC", "")),
+    name: entry.name,
+    country: entry.country,
+    group: null,
+    category: "coca_cola",
+    section: "coca_cola",
+    rarity: "base",
+    albumOrder: stickers.length,
+    imagePath: `/stickers/${entry.code}.webp`,
+    ...(regionalNote ? { regionalNote } : {}),
+  });
 }
 
 const outPath = join(root, "src/data/stickers.json");

@@ -98,7 +98,7 @@ export function CollectionSetup({ initialMissing, initialDuplicates, onApplied, 
 
       <label className="flex flex-col gap-1">
         <span className="text-sm font-medium text-red-300">Missing stickers</span>
-        <span className="text-xs text-slate-500">Paste codes: ARG17, MEX 4, FWC1 …</span>
+        <span className="text-xs text-slate-500">Paste codes: ARG17, FWC1, CC3 …</span>
         <textarea
           value={missingText}
           onChange={(e) => setMissingText(e.target.value)}

@@ -1,6 +1,8 @@
 import { useMemo, useState } from "react";
-import type { StickerWithState } from "../types";
-import { getCountries } from "../lib/stickerLookup";
+import type { StickerSection, StickerWithState } from "../types";
+import { getAllStickers, getCountryFilterOptions } from "../lib/stickerLookup";
+import { sortByAlbumGroupOrder } from "../lib/worldCupGroups";
+import { SECTION_OPTIONS, sortForSection } from "../lib/stickerSections";
 import { StickerCard } from "./StickerCard";
 import { StickerDetail } from "./StickerDetail";
 
@@ -12,15 +14,17 @@ interface GalleryProps {
 
 export function Gallery({ stickers, photoCodes, onUpdated }: GalleryProps) {
   const [query, setQuery] = useState("");
+  const [section, setSection] = useState<StickerSection | "all">("all");
   const [country, setCountry] = useState("all");
   const [status, setStatus] = useState<"all" | "owned" | "missing" | "duplicates">("all");
   const [selected, setSelected] = useState<StickerWithState | null>(null);
 
-  const countries = useMemo(() => getCountries(), []);
+  const countryGroups = useMemo(() => getCountryFilterOptions(getAllStickers()), []);
 
   const filtered = useMemo(() => {
     const q = query.trim().toLowerCase();
-    return stickers.filter((s) => {
+    const list = stickers.filter((s) => {
+      if (section !== "all" && s.section !== section) return false;
       if (country !== "all" && s.country !== country) return false;
       if (status === "owned" && s.owned === 0) return false;
       if (status === "missing" && s.owned > 0) return false;
@@ -32,7 +36,20 @@ export function Gallery({ stickers, photoCodes, onUpdated }: GalleryProps) {
         s.country.toLowerCase().includes(q)
       );
     });
-  }, [stickers, query, country, status]);
+
+    if (country !== "all") {
+      return [...list].sort((a, b) => a.albumOrder - b.albumOrder);
+    }
+
+    if (section === "fwc") {
+      return sortForSection(list, "fwc");
+    }
+    if (section === "coca_cola") {
+      return sortForSection(list, "coca_cola");
+    }
+
+    return sortByAlbumGroupOrder(list);
+  }, [stickers, query, section, country, status]);
 
   const selectedLive = selected
     ? stickers.find((s) => s.code === selected.code) ?? selected
@@ -63,15 +80,30 @@ export function Gallery({ stickers, photoCodes, onUpdated }: GalleryProps) {
           ))}
         </div>
         <select
+          value={section}
+          onChange={(e) => setSection(e.target.value as StickerSection | "all")}
+          className="mt-2 w-full rounded-xl border border-slate-700 bg-slate-800 px-3 py-2 text-sm text-white"
+        >
+          {SECTION_OPTIONS.map((opt) => (
+            <option key={opt.id} value={opt.id}>
+              {opt.label}
+            </option>
+          ))}
+        </select>
+        <select
           value={country}
           onChange={(e) => setCountry(e.target.value)}
           className="mt-2 w-full rounded-xl border border-slate-700 bg-slate-800 px-3 py-2 text-sm text-white"
         >
           <option value="all">All countries</option>
-          {countries.map((c) => (
-            <option key={c} value={c}>
-              {c}
-            </option>
+          {countryGroups.map((group) => (
+            <optgroup key={group.id} label={group.label}>
+              {group.countries.map((c) => (
+                <option key={c} value={c}>
+                  {c}
+                </option>
+              ))}
+            </optgroup>
           ))}
         </select>
         <p className="mt-2 text-xs text-slate-500">{filtered.length} stickers</p>

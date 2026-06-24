@@ -1,5 +1,6 @@
 import catalog from "../data/stickers.json";
 import type { Sticker } from "../types";
+import { compareCountryLabels, getCountryFilterOptions } from "./worldCupGroups";
 
 const stickers = catalog.stickers as Sticker[];
 const byCode = new Map(stickers.map((s) => [s.code, s]));
@@ -20,6 +21,7 @@ export function parseStickerCode(raw: string): string | null {
   const n = normalizeCode(raw);
   if (n === "00") return "00";
   if (/^FWC\d{1,2}$/.test(n)) return n;
+  if (/^CC\d{1,2}$/.test(n)) return n;
   if (/^[A-Z]{3}\d{1,2}$/.test(n)) return n;
   return null;
 }
@@ -31,8 +33,10 @@ export function lookupByTeamSlot(teamCode: string, slot: number): Sticker | unde
 
 export function getCountries(): string[] {
   const set = new Set(stickers.map((s) => s.country));
-  return [...set].sort((a, b) => a.localeCompare(b));
+  return [...set].sort((a, b) => compareCountryLabels(a, b, stickers));
 }
+
+export { getCountryFilterOptions };
 
 export function searchStickers(
   query: string,

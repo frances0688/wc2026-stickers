@@ -5,7 +5,10 @@ export type StickerCategory =
   | "fwc"
   | "museum"
   | "host"
-  | "brand";
+  | "brand"
+  | "coca_cola";
+
+export type StickerSection = "teams" | "fwc" | "coca_cola";
 
 export interface Sticker {
   code: string;
@@ -13,10 +16,13 @@ export interface Sticker {
   slot: number | null;
   name: string;
   country: string;
+  group: string | null;
   category: StickerCategory;
+  section: StickerSection;
   rarity: "foil" | "base";
   albumOrder: number;
   imagePath: string;
+  regionalNote?: string;
 }
 
 export interface CollectionEntry {

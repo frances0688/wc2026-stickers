@@ -18,7 +18,7 @@ export async function recognizeStickerCode(image: Blob | string): Promise<string
   const { data } = await w.recognize(image);
   const text = data.text.replace(/\s/g, "").toUpperCase();
 
-  const candidates = text.match(/(?:FWC\d{1,2}|[A-Z]{3}\d{1,2}|00)/g) ?? [];
+  const candidates = text.match(/(?:FWC\d{1,2}|CC\d{1,2}|[A-Z]{3}\d{1,2}|00)/g) ?? [];
   for (const c of candidates) {
     const parsed = parseStickerCode(c);
     if (parsed) return parsed;

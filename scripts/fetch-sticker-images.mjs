@@ -1,32 +1,16 @@
-import { readFileSync, writeFileSync, mkdirSync, existsSync } from "node:fs";
+import { readFileSync, mkdirSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import sharp from "sharp";
+import { colorsFor } from "./team-colors.mjs";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const root = join(__dirname, "..");
 const outDir = join(root, "public/stickers");
+const force = process.argv.includes("--force");
 const { stickers } = JSON.parse(readFileSync(join(root, "src/data/stickers.json"), "utf-8"));
 
 mkdirSync(outDir, { recursive: true });
-
-const TEAM_COLORS = {
-  ARG: ["#74ACDF", "#FFFFFF"],
-  BRA: ["#009C3B", "#FFDF00"],
-  ENG: ["#FFFFFF", "#CE1124"],
-  FRA: ["#002395", "#ED2939"],
-  GER: ["#000000", "#DD0000"],
-  ESP: ["#AA151B", "#F1BF00"],
-  MEX: ["#006847", "#CE1126"],
-  USA: ["#3C3B6E", "#B22234"],
-  POR: ["#006600", "#FF0000"],
-  NED: ["#FF6600", "#21468B"],
-  default: ["#1B3FA0", "#E8233A"],
-};
-
-function colorsFor(teamCode) {
-  return TEAM_COLORS[teamCode] ?? TEAM_COLORS.default;
-}
 
 function escapeXml(s) {
   return s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
@@ -56,10 +40,11 @@ function svgFor(sticker) {
 }
 
 let created = 0;
+let skipped = 0;
 for (const sticker of stickers) {
   const outPath = join(outDir, `${sticker.code}.webp`);
-  if (existsSync(outPath)) {
-    created++;
+  if (!force && existsSync(outPath)) {
+    skipped++;
     continue;
   }
   const svg = svgFor(sticker);
@@ -68,4 +53,4 @@ for (const sticker of stickers) {
   if (created % 100 === 0) console.log(`Generated ${created}/${stickers.length}...`);
 }
 
-console.log(`Done: ${created} WebP images in ${outDir}`);
+console.log(`Done: ${created} generated, ${skipped} skipped → ${outDir}`);
