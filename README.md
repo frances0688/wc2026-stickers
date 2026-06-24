@@ -48,20 +48,21 @@ git push -u origin main
 | Build command | `npm run build` |
 | **Deploy command** | `npm run deploy:pages` |
 | **Non-production branch deploy command** | `npm run deploy:pages:preview` |
-| Build output directory | `dist` |
 | Node.js version | `22` |
 
-> Use `wrangler pages deploy`, **not** `wrangler deploy`. The latter expects a Worker script and will fail on this static Vite app.
+> **Do not** use bare `npx wrangler deploy` without `[assets]` in `wrangler.toml`. Use `npm run deploy:pages`, which runs `wrangler deploy` with the static `dist` folder configured.
 
 4. Click **Save and Deploy**
 
-Your app will be live at `https://wc2026-stickers.pages.dev` (or similar).
+Your app will be live at your Cloudflare project URL.
 
-If your Cloudflare project has a different name, edit the `deploy:pages` script in `package.json` to match.
+### Troubleshooting: Missing entry-point / `npx wrangler deploy` failed
 
-### Troubleshooting: `wrangler deploy` / Missing entry-point
+Your deploy command must be **`npm run deploy:pages`**, not `npx wrangler deploy` alone. The repo configures `wrangler.toml` to serve `./dist` as static assets.
 
-You used `npx wrangler deploy` — replace it with `npm run deploy:pages` in both deploy command fields.
+### Troubleshooting: Authentication error [code: 10000] on deploy
+
+If deploy still fails on auth, remove any custom `CLOUDFLARE_API_TOKEN` from project **Settings → Environment variables** and retry, or add **Account → Cloudflare Workers Scripts → Edit** permission to your API token.
 
 ### 3. Install on your phone
 

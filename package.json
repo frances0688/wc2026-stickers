@@ -12,8 +12,8 @@
     "preview": "vite preview",
     "seed": "node scripts/seed-checklist.mjs",
     "images": "node scripts/fetch-sticker-images.mjs",
-    "deploy:pages": "wrangler pages deploy dist --project-name=wc2026-stickers",
-    "deploy:pages:preview": "wrangler pages deploy dist --project-name=wc2026-stickers --branch=$CF_PAGES_BRANCH"
+    "deploy:pages": "wrangler deploy",
+    "deploy:pages:preview": "wrangler deploy"
   },
   "dependencies": {
     "dexie": "^4.4.4",
