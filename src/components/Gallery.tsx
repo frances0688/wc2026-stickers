@@ -1,7 +1,7 @@
 import { useMemo, useState } from "react";
 import type { StickerWithState } from "../types";
 import { getAllStickers, getCountryFilterOptions } from "../lib/stickerLookup";
-import { sortByAlbumGroupOrder } from "../lib/worldCupGroups";
+import { matchesCountryFilter, sortByAlbumGroupOrder } from "../lib/worldCupGroups";
 import { fwcSortIndex } from "../lib/stickerSections";
 import { StickerCard } from "./StickerCard";
 import { StickerDetail } from "./StickerDetail";
@@ -23,7 +23,7 @@ export function Gallery({ stickers, photoCodes, onUpdated }: GalleryProps) {
   const filtered = useMemo(() => {
     const q = query.trim().toLowerCase();
     const list = stickers.filter((s) => {
-      if (country !== "all" && s.country !== country) return false;
+      if (country !== "all" && !matchesCountryFilter(s, country)) return false;
       if (status === "owned" && s.owned === 0) return false;
       if (status === "missing" && s.owned > 0) return false;
       if (status === "duplicates" && s.extras === 0) return false;

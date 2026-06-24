@@ -22,6 +22,9 @@ const SPECIAL_COUNTRIES = [
   "Panini",
 ] as const;
 
+/** Virtual country-filter value for Coca-Cola promos (not a real sticker.country). */
+export const COCA_COLA_COUNTRY_FILTER = "Coca-Cola promos";
+
 const EXPORT_SECTION_ORDER = [...GROUP_ORDER, "FWC", "Coca-Cola", "Special"] as const;
 
 /** country name → team code for national teams */
@@ -87,6 +90,11 @@ export function compareCountryLabels(
   return a.localeCompare(b);
 }
 
+export function matchesCountryFilter(sticker: Sticker, filter: string): boolean {
+  if (filter === COCA_COLA_COUNTRY_FILTER) return sticker.section === "coca_cola";
+  return sticker.country === filter;
+}
+
 export function getCountryFilterOptions(stickers: Sticker[]): CountryFilterGroup[] {
   const byGroup = new Map<string, Set<string>>();
   for (const sticker of stickers) {
@@ -105,7 +113,7 @@ export function getCountryFilterOptions(stickers: Sticker[]): CountryFilterGroup
     return { id: group, label: `Group ${group}`, countries };
   });
 
-  const special = SPECIAL_COUNTRIES.filter((country) => stickers.some((s) => s.country === country)).sort(
+  const special: string[] = SPECIAL_COUNTRIES.filter((country) => stickers.some((s) => s.country === country)).sort(
     (a, b) => {
       const stickerA = stickers.find((s) => s.country === a);
       const stickerB = stickers.find((s) => s.country === b);
@@ -113,6 +121,9 @@ export function getCountryFilterOptions(stickers: Sticker[]): CountryFilterGroup
       return a.localeCompare(b);
     },
   );
+  if (stickers.some((s) => s.section === "coca_cola")) {
+    special.push(COCA_COLA_COUNTRY_FILTER);
+  }
   if (special.length > 0) {
     groups.push({ id: "special", label: "Special", countries: special });
   }
