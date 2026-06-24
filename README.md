@@ -46,23 +46,22 @@ git push -u origin main
 | Production branch | `trunk` |
 | Framework preset | Vite |
 | Build command | `npm run build` |
+| **Deploy command** | `npm run deploy:pages` |
+| **Non-production branch deploy command** | `npm run deploy:pages:preview` |
 | Build output directory | `dist` |
-| **Deploy command** | **(leave empty — do not set)** |
 | Node.js version | `20` |
 
-> **Important:** Do **not** set a deploy command like `npx wrangler deploy`. That is for Cloudflare Workers, not Pages. Pages publishes the `dist` folder automatically after the build succeeds.
+> Use `wrangler pages deploy`, **not** `wrangler deploy`. The latter expects a Worker script and will fail on this static Vite app.
 
 4. Click **Save and Deploy**
 
 Your app will be live at `https://wc2026-stickers.pages.dev` (or similar).
 
+If your Cloudflare project has a different name, edit the `deploy:pages` script in `package.json` to match.
+
 ### Troubleshooting: `wrangler deploy` / Missing entry-point
 
-If the build succeeds but deploy fails with `Missing entry-point to Worker script`:
-
-1. Cloudflare dashboard → your project → **Settings** → **Build**
-2. Clear the **Deploy command** field (leave it blank)
-3. Save and **Retry deployment**
+You used `npx wrangler deploy` — replace it with `npm run deploy:pages` in both deploy command fields.
 
 ### 3. Install on your phone
 
@@ -73,10 +72,8 @@ If the build succeeds but deploy fails with `Missing entry-point to Worker scrip
 ### Optional: deploy from CLI
 
 ```bash
-npm install -g wrangler
-wrangler login
 npm run build
-wrangler pages deploy dist --project-name=wc2026-stickers
+npm run deploy:pages
 ```
 
 ## Data & privacy
