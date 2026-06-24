@@ -131,3 +131,10 @@ export function formatAlbumOrderExport(stickers: Sticker[]): string {
     .map((s) => s.code)
     .join(", ");
 }
+
+/** Like album-order export, but annotates stickers with more than one extra copy. */
+export function formatDuplicatesExport(stickers: Array<Sticker & { extras: number }>): string {
+  return sortByAlbumGroupOrder(stickers)
+    .map((s) => (s.extras > 1 ? `${s.code} x${s.extras}` : s.code))
+    .join(", ");
+}
