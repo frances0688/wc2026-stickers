@@ -43,14 +43,26 @@ git push -u origin main
 
 | Setting | Value |
 |---------|--------|
+| Production branch | `trunk` |
 | Framework preset | Vite |
 | Build command | `npm run build` |
 | Build output directory | `dist` |
+| **Deploy command** | **(leave empty — do not set)** |
 | Node.js version | `20` |
+
+> **Important:** Do **not** set a deploy command like `npx wrangler deploy`. That is for Cloudflare Workers, not Pages. Pages publishes the `dist` folder automatically after the build succeeds.
 
 4. Click **Save and Deploy**
 
 Your app will be live at `https://wc2026-stickers.pages.dev` (or similar).
+
+### Troubleshooting: `wrangler deploy` / Missing entry-point
+
+If the build succeeds but deploy fails with `Missing entry-point to Worker script`:
+
+1. Cloudflare dashboard → your project → **Settings** → **Build**
+2. Clear the **Deploy command** field (leave it blank)
+3. Save and **Retry deployment**
 
 ### 3. Install on your phone
 

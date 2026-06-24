@@ -1,3 +1,7 @@
+# Cloudflare Pages — static site only (no Worker entrypoint).
+# Git deploy: build command = npm run build, output = dist, deploy command = (empty)
+# CLI deploy: npm run build && npx wrangler pages deploy dist --project-name=wc2026-stickers
+
 name = "wc2026-stickers"
 compatibility_date = "2024-09-23"
 pages_build_output_dir = "dist"
