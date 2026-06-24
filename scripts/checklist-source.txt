@@ -1,0 +1,1223 @@
+World Cup 2026 Sticker Checklist - Collector Reference
+
+Fan-maintained album code reference
+
+# World Cup 2026 Sticker Checklist: 980-Code Collector Reference
+
+Use this fan-maintained page as a collector reference for the Panini FIFA World Cup 2026 album: opening foils, FIFA Museum entries, team badges, team photos, and player stickers. We update names from public pack evidence, official product pages, and reader corrections rather than claiming a public machine-readable official checklist. Search by code, team, player, category, or rarity, then mark the cards already in your album. When you want analytics, open the tracker; when you want to trade, move to the missing list.
+
+Open the missing list View the tracker
+
+## What is inside the Panini WM 2026 album?
+
+The album splits cleanly into three parts. The opening section contains 9 foil stickers covering the Panini logo, official emblems, mascots, slogan, ball, and three host country panels. The FIFA Museum section follows with 11 chronological foils for selected past World Cup winners. The remaining 960 stickers cover all 48 qualified teams at 20 stickers per team (one team-badge foil pair, one team photo, and 18 player stickers).
+
+### 980 stickers total
+
+The album size reported by Panini at launch. This page tracks the collector checklist we can verify and marks corrections when stronger source evidence appears.
+
+### 48 national teams
+
+The first World Cup with 48 participating nations. Browse each team in the Teams section for a focused profile.
+
+### 68 special stickers
+
+Special stickers include foil and insert-style entries that collectors usually chase first. Read more in our World Cup history page.
+
+## How to use the checklist efficiently
+
+Most opening sessions take less than 10 minutes if you use the right input mode. Pick the workflow that fits your pace:
+
+### Search and filter
+
+Type a sticker code, player name, or team name in the search bar to jump to a specific entry. Combine with the Group, Team, Category, and Rarity filters to narrow the grid to exactly the slice you care about.
+
+### Bulk entry for full boxes
+
+After opening a 50-pack box, paste every code into the bulk entry box, separated by spaces or commas, and click Mark Owned. The tool processes every code in one click and updates the missing list immediately.
+
+### Quick code chips
+
+Open the Quick Code Selector to see every visible sticker code as a clickable chip. Tap each code to toggle the owned state. This view is fastest on mobile when you know the codes but not the names.
+
+### Duplicate counter
+
+Increment the duplicate counter every time you pull an extra of the same sticker. The missing list reads this value to build a clean duplicate export you can paste into a trade thread.
+
+## Browse and mark the sticker checklist
+
+This is the browsing and marking workspace for the full album. The interactive grid lets you filter the 980 entries quickly, while the server-rendered list underneath keeps the same checklist readable as plain HTML.
+
+Loading checklist...
+
+Crawler-readable album data
+
+## Panini World Cup 2026 sticker checklist by team
+
+A server-rendered reference list of every tracked sticker code, title, team, category, rarity, and player name. This content is visible in HTML before the interactive checklist enhances it.
+
+980 HTML entries
+
+Czech RepublicGroup A · 20 stickers
+
+1. CZE1 Team Logo - Czechia · Team Badge · Foil
+2. CZE2 Team Logo - Czechia · Team Badge · Foil
+3. CZE3 Jindrich Stanek - Czechia · Player · Base · Player: Jindrich Stanek
+4. CZE4 Ladislav Krejci - Czechia · Player · Base · Player: Ladislav Krejci
+5. CZE5 Vladimir Coufal - Czechia · Player · Base · Player: Vladimir Coufal
+6. CZE6 Jaroslav Zeleny - Czechia · Player · Base · Player: Jaroslav Zeleny
+7. CZE7 Tomas Holes - Czechia · Player · Base · Player: Tomas Holes
+8. CZE8 David Zima - Czechia · Player · Base · Player: David Zima
+9. CZE9 Michal Sadilek - Czechia · Player · Base · Player: Michal Sadilek
+10. CZE10 Lukas Provod - Czechia · Player · Base · Player: Lukas Provod
+11. CZE11 Lukas Cerv - Czechia · Player · Base · Player: Lukas Cerv
+12. CZE12 Tomas Soucek - Czechia · Player · Base · Player: Tomas Soucek
+13. CZE13 Team Photo - Czechia · Team Photo · Base
+14. CZE14 Pavel Sulc - Czechia · Player · Base · Player: Pavel Sulc
+15. CZE15 Matej Vydra - Czechia · Player · Base · Player: Matej Vydra
+16. CZE16 Vasil Kusej - Czechia · Player · Base · Player: Vasil Kusej
+17. CZE17 Tomas Chory - Czechia · Player · Base · Player: Tomas Chory
+18. CZE18 Vaclav Cerny - Czechia · Player · Base · Player: Vaclav Cerny
+19. CZE19 Adam Hlozek - Czechia · Player · Base · Player: Adam Hlozek
+20. CZE20 Patrik Schick - Czechia · Player · Base · Player: Patrik Schick
+
+MexicoGroup A · 21 stickers
+
+1. FWC7 Mexico - Host Countries & Cities · Host / Tournament · Foil
+2. MEX1 Team Logo - Mexico · Team Badge · Foil
+3. MEX2 Team Logo - Mexico · Team Badge · Foil
+4. MEX3 Johan Vasquez - Mexico · Player · Base · Player: Johan Vasquez
+5. MEX4 Jorge Sánchez - Mexico · Player · Base · Player: Jorge Sánchez
+6. MEX5 Cesar Montes - Mexico · Player · Base · Player: Cesar Montes
+7. MEX6 Jesus Gallardo - Mexico · Player · Base · Player: Jesus Gallardo
+8. MEX7 Israel Reyes - Mexico · Player · Base · Player: Israel Reyes
+9. MEX8 Diego Lainez - Mexico · Player · Base · Player: Diego Lainez
+10. MEX9 Carlos Rodriguez - Mexico · Player · Base · Player: Carlos Rodriguez
+11. MEX10 Edson Alvarez - Mexico · Player · Base · Player: Edson Alvarez
+12. MEX11 Orbelin Pineda - Mexico · Player · Base · Player: Orbelin Pineda
+13. MEX12 Marcel Ruiz - Mexico · Player · Base · Player: Marcel Ruiz
+14. MEX13 Team Photo - Mexico · Team Photo · Base
+15. MEX14 Érick Sánchez - Mexico · Player · Base · Player: Érick Sánchez
+16. MEX15 Hirving Lozano - Mexico · Player · Base · Player: Hirving Lozano
+17. MEX16 Santiago Giménez - Mexico · Player · Base · Player: Santiago Giménez
+18. MEX17 Raúl Jiménez - Mexico · Player · Base · Player: Raúl Jiménez
+19. MEX18 Alexis Vega - Mexico · Player · Base · Player: Alexis Vega
+20. MEX19 Roberto Alvarado - Mexico · Player · Base · Player: Roberto Alvarado
+21. MEX20 Cesar Huerta - Mexico · Player · Base · Player: Cesar Huerta
+
+South AfricaGroup A · 20 stickers
+
+1. RSA1 Team Logo - South Africa · Team Badge · Foil
+2. RSA2 Team Logo - South Africa · Team Badge · Foil
+3. RSA3 Sipho Chaine - South Africa · Player · Base · Player: Sipho Chaine
+4. RSA4 Aubrey Modiba - South Africa · Player · Base · Player: Aubrey Modiba
+5. RSA5 Samukele Kabini - South Africa · Player · Base · Player: Samukele Kabini
+6. RSA6 Mbekezeli Mbokazi - South Africa · Player · Base · Player: Mbekezeli Mbokazi
+7. RSA7 Khulumani Ndamane - South Africa · Player · Base · Player: Khulumani Ndamane
+8. RSA8 Siyabonga Ngezana - South Africa · Player · Base · Player: Siyabonga Ngezana
+9. RSA9 Khuliso Mudau - South Africa · Player · Base · Player: Khuliso Mudau
+10. RSA10 Nkosinathi Sibisi - South Africa · Player · Base · Player: Nkosinathi Sibisi
+11. RSA11 Teboho Mokoena - South Africa · Player · Base · Player: Teboho Mokoena
+12. RSA12 Thalente Mbatha - South Africa · Player · Base · Player: Thalente Mbatha
+13. RSA13 Team Photo - South Africa · Team Photo · Base
+14. RSA14 Bathasi Aubaas - South Africa · Player · Base · Player: Bathasi Aubaas
+15. RSA15 Yaya Sithole - South Africa · Player · Base · Player: Yaya Sithole
+16. RSA16 Sipho Mbule - South Africa · Player · Base · Player: Sipho Mbule
+17. RSA17 Lyle Foster - South Africa · Player · Base · Player: Lyle Foster
+18. RSA18 Iqraam Rayners - South Africa · Player · Base · Player: Iqraam Rayners
+19. RSA19 Mohau Nkota - South Africa · Player · Base · Player: Mohau Nkota
+20. RSA20 Oswin Appollis - South Africa · Player · Base · Player: Oswin Appollis
+
+South KoreaGroup A · 20 stickers
+
+1. KOR1 Team Logo - South Korea · Team Badge · Foil
+2. KOR2 Team Logo - South Korea · Team Badge · Foil
+3. KOR3 Seung-Gyu Kim - South Korea · Player · Base · Player: Seung-Gyu Kim
+4. KOR4 Min-jae Kim - South Korea · Player · Base · Player: Min-jae Kim
+5. KOR5 Yu-min Cho - South Korea · Player · Base · Player: Yu-min Cho
+6. KOR6 Young-woo Seol - South Korea · Player · Base · Player: Young-woo Seol
+7. KOR7 Han-beom Lee - South Korea · Player · Base · Player: Han-beom Lee
+8. KOR8 Tae-seok Lee - South Korea · Player · Base · Player: Tae-seok Lee
+9. KOR9 Myung-jae Lee - South Korea · Player · Base · Player: Myung-jae Lee
+10. KOR10 Jae-sung Lee - South Korea · Player · Base · Player: Jae-sung Lee
+11. KOR11 In-beom Hwang - South Korea · Player · Base · Player: In-beom Hwang
+12. KOR12 Kang-in Lee - South Korea · Player · Base · Player: Kang-in Lee
+13. KOR13 Team Photo - South Korea · Team Photo · Base
+14. KOR14 Seung-ho Paik - South Korea · Player · Base · Player: Seung-ho Paik
+15. KOR15 Jens Castrop - South Korea · Player · Base · Player: Jens Castrop
+16. KOR16 Dongg-yeong Lee - South Korea · Player · Base · Player: Dongg-yeong Lee
+17. KOR17 Gue-sung Cho - South Korea · Player · Base · Player: Gue-sung Cho
+18. KOR18 Heung-min Son - South Korea · Player · Base · Player: Heung-min Son
+19. KOR19 Hee-chan Hwang - South Korea · Player · Base · Player: Hee-chan Hwang
+20. KOR20 Hyeon-Gyu Oh - South Korea · Player · Base · Player: Hyeon-Gyu Oh
+
+Bosnia and HerzegovinaGroup B · 20 stickers
+
+1. BIH1 Team Logo - Bosnia and Herzegovina · Team Badge · Foil
+2. BIH2 Team Logo - Bosnia and Herzegovina · Team Badge · Foil
+3. BIH3 Amer Dedic - Bosnia and Herzegovina · Player · Base · Player: Amer Dedic
+4. BIH4 Sead Kolasinac - Bosnia and Herzegovina · Player · Base · Player: Sead Kolasinac
+5. BIH5 Tarik Muharemovic - Bosnia and Herzegovina · Player · Base · Player: Tarik Muharemovic
+6. BIH6 Nihad Mujakic - Bosnia and Herzegovina · Player · Base · Player: Nihad Mujakic
+7. BIH7 Nikola Katic - Bosnia and Herzegovina · Player · Base · Player: Nikola Katic
+8. BIH8 Amir Hadziahmetovic - Bosnia and Herzegovina · Player · Base · Player: Amir Hadziahmetovic
+9. BIH9 Benjamin Tahirovic - Bosnia and Herzegovina · Player · Base · Player: Benjamin Tahirovic
+10. BIH10 Armin Gigovic - Bosnia and Herzegovina · Player · Base · Player: Armin Gigovic
+11. BIH11 Ivan Sunjic - Bosnia and Herzegovina · Player · Base · Player: Ivan Sunjic
+12. BIH12 Ivan Basic - Bosnia and Herzegovina · Player · Base · Player: Ivan Basic
+13. BIH13 Team Photo - Bosnia and Herzegovina · Team Photo · Base
+14. BIH14 Dzenis Burnic - Bosnia and Herzegovina · Player · Base · Player: Dzenis Burnic
+15. BIH15 Esmir Bajraktarevic - Bosnia and Herzegovina · Player · Base · Player: Esmir Bajraktarevic
+16. BIH16 Amar Memic - Bosnia and Herzegovina · Player · Base · Player: Amar Memic
+17. BIH17 Ermedin Demirovic - Bosnia and Herzegovina · Player · Base · Player: Ermedin Demirovic
+18. BIH18 Edin Dzeko - Bosnia and Herzegovina · Player · Base · Player: Edin Dzeko
+19. BIH19 Samed Bazdar - Bosnia and Herzegovina · Player · Base · Player: Samed Bazdar
+20. BIH20 Haris Tabakovic - Bosnia and Herzegovina · Player · Base · Player: Haris Tabakovic
+
+CanadaGroup B · 21 stickers
+
+1. CAN1 Team Logo - Canada · Team Badge · Foil
+2. CAN2 Team Logo - Canada · Team Badge · Foil
+3. CAN3 Alphonso Davies - Canada · Player · Base · Player: Alphonso Davies
+4. CAN4 Alistair Johnston - Canada · Player · Base · Player: Alistair Johnston
+5. CAN5 Samuel Adekugbe - Canada · Player · Base · Player: Samuel Adekugbe
+6. CAN6 Riche Larvea - Canada · Player · Base · Player: Riche Larvea
+7. CAN7 Derek Cornelius - Canada · Player · Base · Player: Derek Cornelius
+8. CAN8 Moïse Bombito - Canada · Player · Base · Player: Moïse Bombito
+9. CAN9 Kamal Miller - Canada · Player · Base · Player: Kamal Miller
+10. CAN10 Stephen Eustáquio - Canada · Player · Base · Player: Stephen Eustáquio
+11. CAN11 Ismaël Koné - Canada · Player · Base · Player: Ismaël Koné
+12. CAN12 Jonathan Osorio - Canada · Player · Base · Player: Jonathan Osorio
+13. CAN13 Team Photo - Canada · Team Photo · Base
+14. CAN14 Jacob Shaffelburg - Canada · Player · Base · Player: Jacob Shaffelburg
+15. CAN15 Mathieu Choinière - Canada · Player · Base · Player: Mathieu Choinière
+16. CAN16 Niko Sigur - Canada · Player · Base · Player: Niko Sigur
+17. CAN17 Tajon Buchanan - Canada · Player · Base · Player: Tajon Buchanan
+18. CAN18 Liam Millar - Canada · Player · Base · Player: Liam Millar
+19. CAN19 Cyle Larin - Canada · Player · Base · Player: Cyle Larin
+20. CAN20 Jonathan David - Canada · Player · Base · Player: Jonathan David
+21. FWC6 Canada - Host Countries & Cities · Host / Tournament · Foil
+
+QatarGroup B · 20 stickers
+
+1. QAT1 Team Logo - Qatar · Team Badge · Foil
+2. QAT2 Team Logo - Qatar · Team Badge · Foil
+3. QAT3 Sultan Albrake - Qatar · Player · Base · Player: Sultan Albrake
+4. QAT4 Lucas Mendes - Qatar · Player · Base · Player: Lucas Mendes
+5. QAT5 Homam Ahmed - Qatar · Player · Base · Player: Homam Ahmed
+6. QAT6 Boualem Khoukhi - Qatar · Player · Base · Player: Boualem Khoukhi
+7. QAT7 Pedro Miguel - Qatar · Player · Base · Player: Pedro Miguel
+8. QAT8 Tarek Salman - Qatar · Player · Base · Player: Tarek Salman
+9. QAT9 Mohamed Al-Mannai - Qatar · Player · Base · Player: Mohamed Al-Mannai
+10. QAT10 Karim Boudiaf - Qatar · Player · Base · Player: Karim Boudiaf
+11. QAT11 Assim Madibo - Qatar · Player · Base · Player: Assim Madibo
+12. QAT12 Ahmed Fatehi - Qatar · Player · Base · Player: Ahmed Fatehi
+13. QAT13 Team Photo - Qatar · Team Photo · Base
+14. QAT14 Mohammed Waad - Qatar · Player · Base · Player: Mohammed Waad
+15. QAT15 Abdulaziz Hatem - Qatar · Player · Base · Player: Abdulaziz Hatem
+16. QAT16 Hassan Al-Haydos - Qatar · Player · Base · Player: Hassan Al-Haydos
+17. QAT17 Edmilson Junior - Qatar · Player · Base · Player: Edmilson Junior
+18. QAT18 Akram Hassan Afif - Qatar · Player · Base · Player: Akram Hassan Afif
+19. QAT19 Ahmed Al Ganehi - Qatar · Player · Base · Player: Ahmed Al Ganehi
+20. QAT20 Almoez Ali - Qatar · Player · Base · Player: Almoez Ali
+
+SwitzerlandGroup B · 20 stickers
+
+1. SUI1 Team Logo - Switzerland · Team Badge · Foil
+2. SUI2 Team Logo - Switzerland · Team Badge · Foil
+3. SUI3 Yvon Mvogo - Switzerland · Player · Base · Player: Yvon Mvogo
+4. SUI4 Manuel Akanji - Switzerland · Player · Base · Player: Manuel Akanji
+5. SUI5 Ricardo Rodriguez - Switzerland · Player · Base · Player: Ricardo Rodriguez
+6. SUI6 Nico Elvedi - Switzerland · Player · Base · Player: Nico Elvedi
+7. SUI7 Aurèle Amenda - Switzerland · Player · Base · Player: Aurèle Amenda
+8. SUI8 Silvan Widmer - Switzerland · Player · Base · Player: Silvan Widmer
+9. SUI9 Granit Xhaka - Switzerland · Player · Base · Player: Granit Xhaka
+10. SUI10 Denis Zakaria - Switzerland · Player · Base · Player: Denis Zakaria
+11. SUI11 Remo Freuler - Switzerland · Player · Base · Player: Remo Freuler
+12. SUI12 Fabian Rieder - Switzerland · Player · Base · Player: Fabian Rieder
+13. SUI13 Team Photo - Switzerland · Team Photo · Base
+14. SUI14 Ardon Jashari - Switzerland · Player · Base · Player: Ardon Jashari
+15. SUI15 Johan Manzambi - Switzerland · Player · Base · Player: Johan Manzambi
+16. SUI16 Michel Aebischer - Switzerland · Player · Base · Player: Michel Aebischer
+17. SUI17 Breel Embolo - Switzerland · Player · Base · Player: Breel Embolo
+18. SUI18 Ruben Vargas - Switzerland · Player · Base · Player: Ruben Vargas
+19. SUI19 Dan Ndoye - Switzerland · Player · Base · Player: Dan Ndoye
+20. SUI20 Zeki Amdouni - Switzerland · Player · Base · Player: Zeki Amdouni
+
+BrazilGroup C · 20 stickers
+
+1. BRA1 Team Logo - Brazil · Team Badge · Foil
+2. BRA2 Team Logo - Brazil · Team Badge · Foil
+3. BRA3 Bento - Brazil · Player · Base · Player: Bento
+4. BRA4 Marquinhos - Brazil · Player · Base · Player: Marquinhos
+5. BRA5 Éder Militão - Brazil · Player · Base · Player: Éder Militão
+6. BRA6 Gabriel Magalhães - Brazil · Player · Base · Player: Gabriel Magalhães
+7. BRA7 Danilo - Brazil · Player · Base · Player: Danilo
+8. BRA8 Wesley - Brazil · Player · Base · Player: Wesley
+9. BRA9 Lucas Paquetá - Brazil · Player · Base · Player: Lucas Paquetá
+10. BRA10 Casemiro - Brazil · Player · Base · Player: Casemiro
+11. BRA11 Bruno Guimarães - Brazil · Player · Base · Player: Bruno Guimarães
+12. BRA12 Luiz Henrique - Brazil · Player · Base · Player: Luiz Henrique
+13. BRA13 Team Photo - Brazil · Team Photo · Base
+14. BRA14 Vinicius Júnior - Brazil · Player · Base · Player: Vinicius Júnior
+15. BRA15 Rodrygo - Brazil · Player · Base · Player: Rodrygo
+16. BRA16 João Pedro - Brazil · Player · Base · Player: João Pedro
+17. BRA17 Matheus Cunha - Brazil · Player · Base · Player: Matheus Cunha
+18. BRA18 Gabriel Martinelli - Brazil · Player · Base · Player: Gabriel Martinelli
+19. BRA19 Raphinha - Brazil · Player · Base · Player: Raphinha
+20. BRA20 Estévão - Brazil · Player · Base · Player: Estévão
+
+HaitiGroup C · 20 stickers
+
+1. HAI1 Team Logo - Haiti · Team Badge · Foil
+2. HAI2 Team Logo - Haiti · Team Badge · Foil
+3. HAI3 Carlens Arcus - Haiti · Player · Base · Player: Carlens Arcus
+4. HAI4 Martin Expérience - Haiti · Player · Base · Player: Martin Expérience
+5. HAI5 Jean-Kevin Duverne - Haiti · Player · Base · Player: Jean-Kevin Duverne
+6. HAI6 Ricardo Adé - Haiti · Player · Base · Player: Ricardo Adé
+7. HAI7 Duke Lacroix - Haiti · Player · Base · Player: Duke Lacroix
+8. HAI8 Garven Metusala - Haiti · Player · Base · Player: Garven Metusala
+9. HAI9 Hannes Delcroix - Haiti · Player · Base · Player: Hannes Delcroix
+10. HAI10 Leverton Pierre - Haiti · Player · Base · Player: Leverton Pierre
+11. HAI11 Danley Jean Jacques - Haiti · Player · Base · Player: Danley Jean Jacques
+12. HAI12 Jean-Ricner Bellegarde - Haiti · Player · Base · Player: Jean-Ricner Bellegarde
+13. HAI13 Team Photo - Haiti · Team Photo · Base
+14. HAI14 Christopher Attys - Haiti · Player · Base · Player: Christopher Attys
+15. HAI15 Derrick Etienne Jr - Haiti · Player · Base · Player: Derrick Etienne Jr
+16. HAI16 Josue Casimir - Haiti · Player · Base · Player: Josue Casimir
+17. HAI17 Ruben Providence - Haiti · Player · Base · Player: Ruben Providence
+18. HAI18 Duckens Nazon - Haiti · Player · Base · Player: Duckens Nazon
+19. HAI19 Louicius Deedson - Haiti · Player · Base · Player: Louicius Deedson
+20. HAI20 Frantzdy Pierrot - Haiti · Player · Base · Player: Frantzdy Pierrot
+
+MoroccoGroup C · 20 stickers
+
+1. MAR1 Team Logo - Morocco · Team Badge · Foil
+2. MAR2 Team Logo - Morocco · Team Badge · Foil
+3. MAR3 Munir El Kajoui - Morocco · Player · Base · Player: Munir El Kajoui
+4. MAR4 Achraf Hakimi - Morocco · Player · Base · Player: Achraf Hakimi
+5. MAR5 Noussair Mazraoui - Morocco · Player · Base · Player: Noussair Mazraoui
+6. MAR6 Nayef Aguerd - Morocco · Player · Base · Player: Nayef Aguerd
+7. MAR7 Roman Saiss - Morocco · Player · Base · Player: Roman Saiss
+8. MAR8 Jawad El Yamio - Morocco · Player · Base · Player: Jawad El Yamio
+9. MAR9 Adam Masina - Morocco · Player · Base · Player: Adam Masina
+10. MAR10 Sofyan Amrabat - Morocco · Player · Base · Player: Sofyan Amrabat
+11. MAR11 Azzedine Ounahi - Morocco · Player · Base · Player: Azzedine Ounahi
+12. MAR12 Eliesse Ben Seghir - Morocco · Player · Base · Player: Eliesse Ben Seghir
+13. MAR13 Team Photo - Morocco · Team Photo · Base
+14. MAR14 Bilal El Khannouss - Morocco · Player · Base · Player: Bilal El Khannouss
+15. MAR15 Ismael Saibari - Morocco · Player · Base · Player: Ismael Saibari
+16. MAR16 Youssef En-Nesyri - Morocco · Player · Base · Player: Youssef En-Nesyri
+17. MAR17 Abde Ezzalzouli - Morocco · Player · Base · Player: Abde Ezzalzouli
+18. MAR18 Soufiane Rahimi - Morocco · Player · Base · Player: Soufiane Rahimi
+19. MAR19 Brahim Diaz - Morocco · Player · Base · Player: Brahim Diaz
+20. MAR20 Ayoub El Kaabi - Morocco · Player · Base · Player: Ayoub El Kaabi
+
+ScotlandGroup C · 20 stickers
+
+1. SCO1 Team Logo - Scotland · Team Badge · Foil
+2. SCO2 Team Logo - Scotland · Team Badge · Foil
+3. SCO3 Jack Hendry - Scotland · Player · Base · Player: Jack Hendry
+4. SCO4 Kieran Tierney - Scotland · Player · Base · Player: Kieran Tierney
+5. SCO5 Aaron Hickey - Scotland · Player · Base · Player: Aaron Hickey
+6. SCO6 Andrew Robertson - Scotland · Player · Base · Player: Andrew Robertson
+7. SCO7 Scott McKenna - Scotland · Player · Base · Player: Scott McKenna
+8. SCO8 John Souttar - Scotland · Player · Base · Player: John Souttar
+9. SCO9 Anthony Ralston - Scotland · Player · Base · Player: Anthony Ralston
+10. SCO10 Grant Hanley - Scotland · Player · Base · Player: Grant Hanley
+11. SCO11 Scott McTominay - Scotland · Player · Base · Player: Scott McTominay
+12. SCO12 Billy Gilmour - Scotland · Player · Base · Player: Billy Gilmour
+13. SCO13 Team Photo - Scotland · Team Photo · Base
+14. SCO14 Lewis Ferguson - Scotland · Player · Base · Player: Lewis Ferguson
+15. SCO15 Ryan Christie - Scotland · Player · Base · Player: Ryan Christie
+16. SCO16 Kenny McLean - Scotland · Player · Base · Player: Kenny McLean
+17. SCO17 John McGinn - Scotland · Player · Base · Player: John McGinn
+18. SCO18 Lyndon Dykes - Scotland · Player · Base · Player: Lyndon Dykes
+19. SCO19 Che Adams - Scotland · Player · Base · Player: Che Adams
+20. SCO20 Ben Gannon-Doak - Scotland · Player · Base · Player: Ben Gannon-Doak
+
+AustraliaGroup D · 20 stickers
+
+1. AUS1 Team Logo - Australia · Team Badge · Foil
+2. AUS2 Team Logo - Australia · Team Badge · Foil
+3. AUS3 Joe Gauci - Australia · Player · Base · Player: Joe Gauci
+4. AUS4 Harry Souttar - Australia · Player · Base · Player: Harry Souttar
+5. AUS5 Alessandro Circati - Australia · Player · Base · Player: Alessandro Circati
+6. AUS6 Jordan Bos - Australia · Player · Base · Player: Jordan Bos
+7. AUS7 Aziz Behich - Australia · Player · Base · Player: Aziz Behich
+8. AUS8 Cameron Burgess - Australia · Player · Base · Player: Cameron Burgess
+9. AUS9 Lewis Miller - Australia · Player · Base · Player: Lewis Miller
+10. AUS10 Milos Degenek - Australia · Player · Base · Player: Milos Degenek
+11. AUS11 Jackson Irvine - Australia · Player · Base · Player: Jackson Irvine
+12. AUS12 Riley McGree - Australia · Player · Base · Player: Riley McGree
+13. AUS13 Team Photo - Australia · Team Photo · Base
+14. AUS14 Aiden O'Neill - Australia · Player · Base · Player: Aiden O'Neill
+15. AUS15 Connor Metcalfe - Australia · Player · Base · Player: Connor Metcalfe
+16. AUS16 Patrick Yazbek - Australia · Player · Base · Player: Patrick Yazbek
+17. AUS17 Craig Goodwin - Australia · Player · Base · Player: Craig Goodwin
+18. AUS18 Kusini Vengi - Australia · Player · Base · Player: Kusini Vengi
+19. AUS19 Nestory Irankunda - Australia · Player · Base · Player: Nestory Irankunda
+20. AUS20 Mohamed Touré - Australia · Player · Base · Player: Mohamed Touré
+
+ParaguayGroup D · 20 stickers
+
+1. PAR1 Team Logo - Paraguay · Team Badge · Foil
+2. PAR2 Team Logo - Paraguay · Team Badge · Foil
+3. PAR3 Orlando Gill - Paraguay · Player · Base · Player: Orlando Gill
+4. PAR4 Gustavo Gomez - Paraguay · Player · Base · Player: Gustavo Gomez
+5. PAR5 Fabián Balbuena - Paraguay · Player · Base · Player: Fabián Balbuena
+6. PAR6 Juan José Cáceres - Paraguay · Player · Base · Player: Juan José Cáceres
+7. PAR7 Omar Alderete - Paraguay · Player · Base · Player: Omar Alderete
+8. PAR8 Junior Alonso - Paraguay · Player · Base · Player: Junior Alonso
+9. PAR9 Mathías Villasanti - Paraguay · Player · Base · Player: Mathías Villasanti
+10. PAR10 Diego Gomez - Paraguay · Player · Base · Player: Diego Gomez
+11. PAR11 Damián Bobadilla - Paraguay · Player · Base · Player: Damián Bobadilla
+12. PAR12 Andres Cubas - Paraguay · Player · Base · Player: Andres Cubas
+13. PAR13 Team Photo - Paraguay · Team Photo · Base
+14. PAR14 Matias Galarza Fonda - Paraguay · Player · Base · Player: Matias Galarza Fonda
+15. PAR15 Julio Enciso - Paraguay · Player · Base · Player: Julio Enciso
+16. PAR16 Alejandro Romero Gamarra - Paraguay · Player · Base · Player: Alejandro Romero Gamarra
+17. PAR17 Miguel Almirón - Paraguay · Player · Base · Player: Miguel Almirón
+18. PAR18 Ramon Sosa - Paraguay · Player · Base · Player: Ramon Sosa
+19. PAR19 Angel Romero - Paraguay · Player · Base · Player: Angel Romero
+20. PAR20 Antonio Sanabria - Paraguay · Player · Base · Player: Antonio Sanabria
+
+TurkeyGroup D · 20 stickers
+
+1. TUR1 Team Logo - Türkiye · Team Badge · Foil
+2. TUR2 Team Logo - Türkiye · Team Badge · Foil
+3. TUR3 Mert Muldur - Türkiye · Player · Base · Player: Mert Muldur
+4. TUR4 Zeki Celik - Türkiye · Player · Base · Player: Zeki Celik
+5. TUR5 Abdulkerim Bardakci - Türkiye · Player · Base · Player: Abdulkerim Bardakci
+6. TUR6 Caglar Soyuncu - Türkiye · Player · Base · Player: Caglar Soyuncu
+7. TUR7 Merih Demiral - Türkiye · Player · Base · Player: Merih Demiral
+8. TUR8 Ferdi Kadioglu - Türkiye · Player · Base · Player: Ferdi Kadioglu
+9. TUR9 Kaan Ayhan - Türkiye · Player · Base · Player: Kaan Ayhan
+10. TUR10 Ismail Yuksek - Türkiye · Player · Base · Player: Ismail Yuksek
+11. TUR11 Hakan Calhanoglu - Türkiye · Player · Base · Player: Hakan Calhanoglu
+12. TUR12 Orkun Kokcu - Türkiye · Player · Base · Player: Orkun Kokcu
+13. TUR13 Team Photo - Türkiye · Team Photo · Base
+14. TUR14 Arda Guler - Türkiye · Player · Base · Player: Arda Guler
+15. TUR15 Irfan Can Kahveci - Türkiye · Player · Base · Player: Irfan Can Kahveci
+16. TUR16 Yunus Akgun - Türkiye · Player · Base · Player: Yunus Akgun
+17. TUR17 Can Uzun - Türkiye · Player · Base · Player: Can Uzun
+18. TUR18 Baris Alper Yilmaz - Türkiye · Player · Base · Player: Baris Alper Yilmaz
+19. TUR19 Kerem Akturkoglu - Türkiye · Player · Base · Player: Kerem Akturkoglu
+20. TUR20 Kenan Yildiz - Türkiye · Player · Base · Player: Kenan Yildiz
+
+USAGroup D · 21 stickers
+
+1. FWC8 USA - Host Countries & Cities · Host / Tournament · Foil
+2. USA1 Team Logo - United States · Team Badge · Foil
+3. USA2 Team Logo - United States · Team Badge · Foil
+4. USA3 Chris Richards - United States · Player · Base · Player: Chris Richards
+5. USA4 Tim Ream - United States · Player · Base · Player: Tim Ream
+6. USA5 Mark McKenzie - United States · Player · Base · Player: Mark McKenzie
+7. USA6 Alex Freeman - United States · Player · Base · Player: Alex Freeman
+8. USA7 Antonee Robinson - United States · Player · Base · Player: Antonee Robinson
+9. USA8 Tyler Adams - United States · Player · Base · Player: Tyler Adams
+10. USA9 Tanner Tessmann - United States · Player · Base · Player: Tanner Tessmann
+11. USA10 Weston McKenny - United States · Player · Base · Player: Weston McKenny
+12. USA11 Christian Roldan - United States · Player · Base · Player: Christian Roldan
+13. USA12 Timothy Weah - United States · Player · Base · Player: Timothy Weah
+14. USA13 Team Photo - United States · Team Photo · Base
+15. USA14 Diego Luna - United States · Player · Base · Player: Diego Luna
+16. USA15 Malik Tillman - United States · Player · Base · Player: Malik Tillman
+17. USA16 Christian Pulisic - United States · Player · Base · Player: Christian Pulisic
+18. USA17 Brenden Aaronson - United States · Player · Base · Player: Brenden Aaronson
+19. USA18 Ricardo Pepi - United States · Player · Base · Player: Ricardo Pepi
+20. USA19 Haji Wright - United States · Player · Base · Player: Haji Wright
+21. USA20 Folarin Balogun - United States · Player · Base · Player: Folarin Balogun
+
+CuraçaoGroup E · 20 stickers
+
+1. CUW1 Team Logo - Curaçao · Team Badge · Foil
+2. CUW2 Team Logo - Curaçao · Team Badge · Foil
+3. CUW3 Armando Obispo - Curaçao · Player · Base · Player: Armando Obispo
+4. CUW4 Sherel Floranus - Curaçao · Player · Base · Player: Sherel Floranus
+5. CUW5 Jurien Gaari - Curaçao · Player · Base · Player: Jurien Gaari
+6. CUW6 Joshua Brenet - Curaçao · Player · Base · Player: Joshua Brenet
+7. CUW7 Roshon Van Eijma - Curaçao · Player · Base · Player: Roshon Van Eijma
+8. CUW8 Shurandy Sambo - Curaçao · Player · Base · Player: Shurandy Sambo
+9. CUW9 Livano Comenencia - Curaçao · Player · Base · Player: Livano Comenencia
+10. CUW10 Godfried Roemeratoe - Curaçao · Player · Base · Player: Godfried Roemeratoe
+11. CUW11 Juninho Bacuna - Curaçao · Player · Base · Player: Juninho Bacuna
+12. CUW12 Leandro Bacuna - Curaçao · Player · Base · Player: Leandro Bacuna
+13. CUW13 Team Photo - Curaçao · Team Photo · Base
+14. CUW14 Tahith Chong - Curaçao · Player · Base · Player: Tahith Chong
+15. CUW15 Kenji Gorre - Curaçao · Player · Base · Player: Kenji Gorre
+16. CUW16 Jearl Margaritha - Curaçao · Player · Base · Player: Jearl Margaritha
+17. CUW17 Jurgen Locadia - Curaçao · Player · Base · Player: Jurgen Locadia
+18. CUW18 Jeremy Antonisse - Curaçao · Player · Base · Player: Jeremy Antonisse
+19. CUW19 Gervane Kastaneer - Curaçao · Player · Base · Player: Gervane Kastaneer
+20. CUW20 Sontje Hansen - Curaçao · Player · Base · Player: Sontje Hansen
+
+EcuadorGroup E · 20 stickers
+
+1. ECU1 Team Logo - Ecuador · Team Badge · Foil
+2. ECU2 Team Logo - Ecuador · Team Badge · Foil
+3. ECU3 Gonzalo Valle - Ecuador · Player · Base · Player: Gonzalo Valle
+4. ECU4 Piero Hincapié - Ecuador · Player · Base · Player: Piero Hincapié
+5. ECU5 Pervis Estupiñán - Ecuador · Player · Base · Player: Pervis Estupiñán
+6. ECU6 Willian Pacho - Ecuador · Player · Base · Player: Willian Pacho
+7. ECU7 Ángelo Preciado - Ecuador · Player · Base · Player: Ángelo Preciado
+8. ECU8 Joel Ordóñez - Ecuador · Player · Base · Player: Joel Ordóñez
+9. ECU9 Moises Caicedo - Ecuador · Player · Base · Player: Moises Caicedo
+10. ECU10 Alan Franco - Ecuador · Player · Base · Player: Alan Franco
+11. ECU11 Kendry Paez - Ecuador · Player · Base · Player: Kendry Paez
+12. ECU12 Pedro Vite - Ecuador · Player · Base · Player: Pedro Vite
+13. ECU13 Team Photo - Ecuador · Team Photo · Base
+14. ECU14 John Veboah - Ecuador · Player · Base · Player: John Veboah
+15. ECU15 Leonardo Campana - Ecuador · Player · Base · Player: Leonardo Campana
+16. ECU16 Gonzalo Plata - Ecuador · Player · Base · Player: Gonzalo Plata
+17. ECU17 Nilson Angulo - Ecuador · Player · Base · Player: Nilson Angulo
+18. ECU18 Alan Minda - Ecuador · Player · Base · Player: Alan Minda
+19. ECU19 Kevin Rodriguez - Ecuador · Player · Base · Player: Kevin Rodriguez
+20. ECU20 Enner Valencia - Ecuador · Player · Base · Player: Enner Valencia
+
+GermanyGroup E · 20 stickers
+
+1. GER1 Team Logo - Germany · Team Badge · Foil
+2. GER2 Team Logo - Germany · Team Badge · Foil
+3. GER3 Jonathan Tah - Germany · Player · Base · Player: Jonathan Tah
+4. GER4 David Raum - Germany · Player · Base · Player: David Raum
+5. GER5 Nico Schlotterbeck - Germany · Player · Base · Player: Nico Schlotterbeck
+6. GER6 Antonio Rüdiger - Germany · Player · Base · Player: Antonio Rüdiger
+7. GER7 Waldemar Anton - Germany · Player · Base · Player: Waldemar Anton
+8. GER8 Ridle Baku - Germany · Player · Base · Player: Ridle Baku
+9. GER9 Maximilian Mittelstadt - Germany · Player · Base · Player: Maximilian Mittelstadt
+10. GER10 Joshua Kimmich - Germany · Player · Base · Player: Joshua Kimmich
+11. GER11 Florian Wirtz - Germany · Player · Base · Player: Florian Wirtz
+12. GER12 Felix Nmecha - Germany · Player · Base · Player: Felix Nmecha
+13. GER13 Team Photo - Germany · Team Photo · Base
+14. GER14 Leon Goretzka - Germany · Player · Base · Player: Leon Goretzka
+15. GER15 Jamal Musiala - Germany · Player · Base · Player: Jamal Musiala
+16. GER16 Serge Gnabry - Germany · Player · Base · Player: Serge Gnabry
+17. GER17 Kai Havertz - Germany · Player · Base · Player: Kai Havertz
+18. GER18 Leroy Sane - Germany · Player · Base · Player: Leroy Sane
+19. GER19 Karim Adeyemi - Germany · Player · Base · Player: Karim Adeyemi
+20. GER20 Nick Woltemade - Germany · Player · Base · Player: Nick Woltemade
+
+Ivory CoastGroup E · 20 stickers
+
+1. CIV1 Team Logo - Ivory Coast · Team Badge · Foil
+2. CIV2 Team Logo - Ivory Coast · Team Badge · Foil
+3. CIV3 Ghislain Konan - Ivory Coast · Player · Base · Player: Ghislain Konan
+4. CIV4 Wilfried Singo - Ivory Coast · Player · Base · Player: Wilfried Singo
+5. CIV5 Odilon Kossounou - Ivory Coast · Player · Base · Player: Odilon Kossounou
+6. CIV6 Evan Ndicka - Ivory Coast · Player · Base · Player: Evan Ndicka
+7. CIV7 Willy Boly - Ivory Coast · Player · Base · Player: Willy Boly
+8. CIV8 Emmanuel Agbadou - Ivory Coast · Player · Base · Player: Emmanuel Agbadou
+9. CIV9 Ousmane Diomande - Ivory Coast · Player · Base · Player: Ousmane Diomande
+10. CIV10 Franck Kessie - Ivory Coast · Player · Base · Player: Franck Kessie
+11. CIV11 Seko Fofana - Ivory Coast · Player · Base · Player: Seko Fofana
+12. CIV12 Ibrahim Sangare - Ivory Coast · Player · Base · Player: Ibrahim Sangare
+13. CIV13 Team Photo - Ivory Coast · Team Photo · Base
+14. CIV14 Jean-Philippe Gbamin - Ivory Coast · Player · Base · Player: Jean-Philippe Gbamin
+15. CIV15 Amad Diallo - Ivory Coast · Player · Base · Player: Amad Diallo
+16. CIV16 Sébastien Haller - Ivory Coast · Player · Base · Player: Sébastien Haller
+17. CIV17 Simon Adingra - Ivory Coast · Player · Base · Player: Simon Adingra
+18. CIV18 Yan Diomande - Ivory Coast · Player · Base · Player: Yan Diomande
+19. CIV19 Evann Guessand - Ivory Coast · Player · Base · Player: Evann Guessand
+20. CIV20 Oumar Diakite - Ivory Coast · Player · Base · Player: Oumar Diakite
+
+JapanGroup F · 20 stickers
+
+1. JPN1 Team Logo - Japan · Team Badge · Foil
+2. JPN2 Team Logo - Japan · Team Badge · Foil
+3. JPN3 Henry Heroki Mochizuki - Japan · Player · Base · Player: Henry Heroki Mochizuki
+4. JPN4 Ayumu Seko - Japan · Player · Base · Player: Ayumu Seko
+5. JPN5 Junnosuke Suzuki - Japan · Player · Base · Player: Junnosuke Suzuki
+6. JPN6 Shogo Taniguchi - Japan · Player · Base · Player: Shogo Taniguchi
+7. JPN7 Tsuyoshi Watanabe - Japan · Player · Base · Player: Tsuyoshi Watanabe
+8. JPN8 Kaishu Sano - Japan · Player · Base · Player: Kaishu Sano
+9. JPN9 Yuki Soma - Japan · Player · Base · Player: Yuki Soma
+10. JPN10 Ao Tanaka - Japan · Player · Base · Player: Ao Tanaka
+11. JPN11 Daichi Kamada - Japan · Player · Base · Player: Daichi Kamada
+12. JPN12 Takefusa Kubo - Japan · Player · Base · Player: Takefusa Kubo
+13. JPN13 Team Photo - Japan · Team Photo · Base
+14. JPN14 Ritsu Doan - Japan · Player · Base · Player: Ritsu Doan
+15. JPN15 Keito Nakamura - Japan · Player · Base · Player: Keito Nakamura
+16. JPN16 Takumi Minamino - Japan · Player · Base · Player: Takumi Minamino
+17. JPN17 Shuto Machino - Japan · Player · Base · Player: Shuto Machino
+18. JPN18 Junya Ito - Japan · Player · Base · Player: Junya Ito
+19. JPN19 Koki Ogawa - Japan · Player · Base · Player: Koki Ogawa
+20. JPN20 Ayase Ueda - Japan · Player · Base · Player: Ayase Ueda
+
+NetherlandsGroup F · 20 stickers
+
+1. NED1 Team Logo - Netherlands · Team Badge · Foil
+2. NED2 Team Logo - Netherlands · Team Badge · Foil
+3. NED3 Virgil van Dijk - Netherlands · Player · Base · Player: Virgil van Dijk
+4. NED4 Micky van de Ven - Netherlands · Player · Base · Player: Micky van de Ven
+5. NED5 Jurrien Timber - Netherlands · Player · Base · Player: Jurrien Timber
+6. NED6 Denzel Dumfries - Netherlands · Player · Base · Player: Denzel Dumfries
+7. NED7 Nathan Aké - Netherlands · Player · Base · Player: Nathan Aké
+8. NED8 Jeremie Frimpong - Netherlands · Player · Base · Player: Jeremie Frimpong
+9. NED9 Jan Paul van Hecke - Netherlands · Player · Base · Player: Jan Paul van Hecke
+10. NED10 Tijjani Reijnders - Netherlands · Player · Base · Player: Tijjani Reijnders
+11. NED11 Ryan Gravenberch - Netherlands · Player · Base · Player: Ryan Gravenberch
+12. NED12 Teun Koopmeiners - Netherlands · Player · Base · Player: Teun Koopmeiners
+13. NED13 Team Photo - Netherlands · Team Photo · Base
+14. NED14 Frenkie de Jong - Netherlands · Player · Base · Player: Frenkie de Jong
+15. NED15 Xavi Simons - Netherlands · Player · Base · Player: Xavi Simons
+16. NED16 Justin Kluivert - Netherlands · Player · Base · Player: Justin Kluivert
+17. NED17 Memphis Depay - Netherlands · Player · Base · Player: Memphis Depay
+18. NED18 Donyell Malen - Netherlands · Player · Base · Player: Donyell Malen
+19. NED19 Wout Weghorst - Netherlands · Player · Base · Player: Wout Weghorst
+20. NED20 Cody Gakpo - Netherlands · Player · Base · Player: Cody Gakpo
+
+SwedenGroup F · 20 stickers
+
+1. SWE1 Team Logo - Sweden · Team Badge · Foil
+2. SWE2 Team Logo - Sweden · Team Badge · Foil
+3. SWE3 Isak Hien - Sweden · Player · Base · Player: Isak Hien
+4. SWE4 Gabriel Gudmundsson - Sweden · Player · Base · Player: Gabriel Gudmundsson
+5. SWE5 Emil Holm - Sweden · Player · Base · Player: Emil Holm
+6. SWE6 Victor Nilsson Lindelöf - Sweden · Player · Base · Player: Victor Nilsson Lindelöf
+7. SWE7 Gustaf Lagerbielke - Sweden · Player · Base · Player: Gustaf Lagerbielke
+8. SWE8 Lucas Bergvall - Sweden · Player · Base · Player: Lucas Bergvall
+9. SWE9 Hugo Larsson - Sweden · Player · Base · Player: Hugo Larsson
+10. SWE10 Jesper Karlström - Sweden · Player · Base · Player: Jesper Karlström
+11. SWE11 Yasin Ayari - Sweden · Player · Base · Player: Yasin Ayari
+12. SWE12 Mattias Svanberg - Sweden · Player · Base · Player: Mattias Svanberg
+13. SWE13 Team Photo - Sweden · Team Photo · Base
+14. SWE14 Daniel Svensson - Sweden · Player · Base · Player: Daniel Svensson
+15. SWE15 Ken Sema - Sweden · Player · Base · Player: Ken Sema
+16. SWE16 Roony Bardghji - Sweden · Player · Base · Player: Roony Bardghji
+17. SWE17 Dejan Kulusevski - Sweden · Player · Base · Player: Dejan Kulusevski
+18. SWE18 Anthony Elanga - Sweden · Player · Base · Player: Anthony Elanga
+19. SWE19 Alexander Isak - Sweden · Player · Base · Player: Alexander Isak
+20. SWE20 Viktor Gyökeres - Sweden · Player · Base · Player: Viktor Gyökeres
+
+TunisiaGroup F · 20 stickers
+
+1. TUN1 Team Logo - Tunisia · Team Badge · Foil
+2. TUN2 Team Logo - Tunisia · Team Badge · Foil
+3. TUN3 Aymen Dahmen - Tunisia · Player · Base · Player: Aymen Dahmen
+4. TUN4 Yan Valery - Tunisia · Player · Base · Player: Yan Valery
+5. TUN5 Montassar Talbi - Tunisia · Player · Base · Player: Montassar Talbi
+6. TUN6 Yassine Meriah - Tunisia · Player · Base · Player: Yassine Meriah
+7. TUN7 Ali Abdi - Tunisia · Player · Base · Player: Ali Abdi
+8. TUN8 Dylan Bronn - Tunisia · Player · Base · Player: Dylan Bronn
+9. TUN9 Ellyes Skhiri - Tunisia · Player · Base · Player: Ellyes Skhiri
+10. TUN10 Aissa Laidouni - Tunisia · Player · Base · Player: Aissa Laidouni
+11. TUN11 Ferjani Sassi - Tunisia · Player · Base · Player: Ferjani Sassi
+12. TUN12 Mohamed Ali Ben Romdhane - Tunisia · Player · Base · Player: Mohamed Ali Ben Romdhane
+13. TUN13 Team Photo - Tunisia · Team Photo · Base
+14. TUN14 Hannibal Mejbri - Tunisia · Player · Base · Player: Hannibal Mejbri
+15. TUN15 Elias Achouri - Tunisia · Player · Base · Player: Elias Achouri
+16. TUN16 Elias Saad - Tunisia · Player · Base · Player: Elias Saad
+17. TUN17 Hazem Mastouri - Tunisia · Player · Base · Player: Hazem Mastouri
+18. TUN18 Ismael Gharbi - Tunisia · Player · Base · Player: Ismael Gharbi
+19. TUN19 Sayfallah Ltaief - Tunisia · Player · Base · Player: Sayfallah Ltaief
+20. TUN20 Naim Sliti - Tunisia · Player · Base · Player: Naim Sliti
+
+BelgiumGroup G · 20 stickers
+
+1. BEL1 Team Logo - Belgium · Team Badge · Foil
+2. BEL2 Team Logo - Belgium · Team Badge · Foil
+3. BEL3 Arthur Theate - Belgium · Player · Base · Player: Arthur Theate
+4. BEL4 Timothy Castagne - Belgium · Player · Base · Player: Timothy Castagne
+5. BEL5 Zeno Debast - Belgium · Player · Base · Player: Zeno Debast
+6. BEL6 Brandon Mechele - Belgium · Player · Base · Player: Brandon Mechele
+7. BEL7 Maxim De Cuyper - Belgium · Player · Base · Player: Maxim De Cuyper
+8. BEL8 Thomas Meunier - Belgium · Player · Base · Player: Thomas Meunier
+9. BEL9 Youri Tielemans - Belgium · Player · Base · Player: Youri Tielemans
+10. BEL10 Amadou Onana - Belgium · Player · Base · Player: Amadou Onana
+11. BEL11 Nicolas Raskin - Belgium · Player · Base · Player: Nicolas Raskin
+12. BEL12 Alexis Saelemaekers - Belgium · Player · Base · Player: Alexis Saelemaekers
+13. BEL13 Team Photo - Belgium · Team Photo · Base
+14. BEL14 Hans Vanaken - Belgium · Player · Base · Player: Hans Vanaken
+15. BEL15 Kevin De Bruyne - Belgium · Player · Base · Player: Kevin De Bruyne
+16. BEL16 Jérémy Doku - Belgium · Player · Base · Player: Jérémy Doku
+17. BEL17 Charles De Ketelaere - Belgium · Player · Base · Player: Charles De Ketelaere
+18. BEL18 Leandro Trossard - Belgium · Player · Base · Player: Leandro Trossard
+19. BEL19 Loïs Openda - Belgium · Player · Base · Player: Loïs Openda
+20. BEL20 Romelu Lukaku - Belgium · Player · Base · Player: Romelu Lukaku
+
+EgyptGroup G · 20 stickers
+
+1. EGY1 Team Logo - Egypt · Team Badge · Foil
+2. EGY2 Team Logo - Egypt · Team Badge · Foil
+3. EGY3 Mohamed Hany - Egypt · Player · Base · Player: Mohamed Hany
+4. EGY4 Mohamed Hamdy - Egypt · Player · Base · Player: Mohamed Hamdy
+5. EGY5 Yasser Ibrahim - Egypt · Player · Base · Player: Yasser Ibrahim
+6. EGY6 Khaled Sobhi - Egypt · Player · Base · Player: Khaled Sobhi
+7. EGY7 Ramy Rabia - Egypt · Player · Base · Player: Ramy Rabia
+8. EGY8 Hossam Abdelmaguid - Egypt · Player · Base · Player: Hossam Abdelmaguid
+9. EGY9 Ahmed Fatouh - Egypt · Player · Base · Player: Ahmed Fatouh
+10. EGY10 Marwan Attia - Egypt · Player · Base · Player: Marwan Attia
+11. EGY11 Zizo - Egypt · Player · Base · Player: Zizo
+12. EGY12 Hamdy Fathy - Egypt · Player · Base · Player: Hamdy Fathy
+13. EGY13 Team Photo - Egypt · Team Photo · Base
+14. EGY14 Mohamed Lasheen - Egypt · Player · Base · Player: Mohamed Lasheen
+15. EGY15 Emam Ashour - Egypt · Player · Base · Player: Emam Ashour
+16. EGY16 Osama Faisal - Egypt · Player · Base · Player: Osama Faisal
+17. EGY17 Mohamed Salah - Egypt · Player · Base · Player: Mohamed Salah
+18. EGY18 Mostafa Mohamed - Egypt · Player · Base · Player: Mostafa Mohamed
+19. EGY19 Trezeguet - Egypt · Player · Base · Player: Trezeguet
+20. EGY20 Omar Marmoush - Egypt · Player · Base · Player: Omar Marmoush
+
+IranGroup G · 20 stickers
+
+1. IRN1 Team Logo - Iran · Team Badge · Foil
+2. IRN2 Team Logo - Iran · Team Badge · Foil
+3. IRN3 Morteza Pouraliganji - Iran · Player · Base · Player: Morteza Pouraliganji
+4. IRN4 Ehsan Hajsafi - Iran · Player · Base · Player: Ehsan Hajsafi
+5. IRN5 Milad Mohammadi - Iran · Player · Base · Player: Milad Mohammadi
+6. IRN6 Shojae Khalilzadeh - Iran · Player · Base · Player: Shojae Khalilzadeh
+7. IRN7 Ramin Rezaeian - Iran · Player · Base · Player: Ramin Rezaeian
+8. IRN8 Hossein Kanaani - Iran · Player · Base · Player: Hossein Kanaani
+9. IRN9 Sadegh Moharrami - Iran · Player · Base · Player: Sadegh Moharrami
+10. IRN10 Saleh Hardani - Iran · Player · Base · Player: Saleh Hardani
+11. IRN11 Saeed Ezatolahi - Iran · Player · Base · Player: Saeed Ezatolahi
+12. IRN12 Saman Ghoddos - Iran · Player · Base · Player: Saman Ghoddos
+13. IRN13 Team Photo - Iran · Team Photo · Base
+14. IRN14 Omid Noorafkan - Iran · Player · Base · Player: Omid Noorafkan
+15. IRN15 Roozbeh Cheshmi - Iran · Player · Base · Player: Roozbeh Cheshmi
+16. IRN16 Mohammad Mohebi - Iran · Player · Base · Player: Mohammad Mohebi
+17. IRN17 Sardar Azmoun - Iran · Player · Base · Player: Sardar Azmoun
+18. IRN18 Mehdi Taremi - Iran · Player · Base · Player: Mehdi Taremi
+19. IRN19 Alireza Jahanbakhsh - Iran · Player · Base · Player: Alireza Jahanbakhsh
+20. IRN20 Ali Gholizadeh - Iran · Player · Base · Player: Ali Gholizadeh
+
+New ZealandGroup G · 20 stickers
+
+1. NZL1 Team Logo - New Zealand · Team Badge · Foil
+2. NZL2 Team Logo - New Zealand · Team Badge · Foil
+3. NZL3 Alex Paulsen - New Zealand · Player · Base · Player: Alex Paulsen
+4. NZL4 Michael Boxall - New Zealand · Player · Base · Player: Michael Boxall
+5. NZL5 Liberato Cacace - New Zealand · Player · Base · Player: Liberato Cacace
+6. NZL6 Tim Payne - New Zealand · Player · Base · Player: Tim Payne
+7. NZL7 Tyler Bindon - New Zealand · Player · Base · Player: Tyler Bindon
+8. NZL8 Francis de Vries - New Zealand · Player · Base · Player: Francis de Vries
+9. NZL9 Finn Surman - New Zealand · Player · Base · Player: Finn Surman
+10. NZL10 Joe Bell - New Zealand · Player · Base · Player: Joe Bell
+11. NZL11 Sarpreet Singh - New Zealand · Player · Base · Player: Sarpreet Singh
+12. NZL12 Ryan Thomas - New Zealand · Player · Base · Player: Ryan Thomas
+13. NZL13 Team Photo - New Zealand · Team Photo · Base
+14. NZL14 Matthew Garbett - New Zealand · Player · Base · Player: Matthew Garbett
+15. NZL15 Marko Stamenić - New Zealand · Player · Base · Player: Marko Stamenić
+16. NZL16 Ben Old - New Zealand · Player · Base · Player: Ben Old
+17. NZL17 Chris Wood - New Zealand · Player · Base · Player: Chris Wood
+18. NZL18 Elijah Just - New Zealand · Player · Base · Player: Elijah Just
+19. NZL19 Callum McCowatt - New Zealand · Player · Base · Player: Callum McCowatt
+20. NZL20 Kosta Barbarouses - New Zealand · Player · Base · Player: Kosta Barbarouses
+
+Cape VerdeGroup H · 20 stickers
+
+1. CPV1 Team Logo - Cape Verde · Team Badge · Foil
+2. CPV2 Team Logo - Cape Verde · Team Badge · Foil
+3. CPV3 Logan Costa - Cape Verde · Player · Base · Player: Logan Costa
+4. CPV4 Pico - Cape Verde · Player · Base · Player: Pico
+5. CPV5 Diney - Cape Verde · Player · Base · Player: Diney
+6. CPV6 Steven Moreira - Cape Verde · Player · Base · Player: Steven Moreira
+7. CPV7 Wagner Pina - Cape Verde · Player · Base · Player: Wagner Pina
+8. CPV8 Joao Paulo - Cape Verde · Player · Base · Player: Joao Paulo
+9. CPV9 Yannick Semedo - Cape Verde · Player · Base · Player: Yannick Semedo
+10. CPV10 Kevin Pina - Cape Verde · Player · Base · Player: Kevin Pina
+11. CPV11 Patrick Andrade - Cape Verde · Player · Base · Player: Patrick Andrade
+12. CPV12 Jamiro Monteiro - Cape Verde · Player · Base · Player: Jamiro Monteiro
+13. CPV13 Team Photo - Cape Verde · Team Photo · Base
+14. CPV14 Deroy Duarte - Cape Verde · Player · Base · Player: Deroy Duarte
+15. CPV15 Garry Rodrigues - Cape Verde · Player · Base · Player: Garry Rodrigues
+16. CPV16 Jovane Cabral - Cape Verde · Player · Base · Player: Jovane Cabral
+17. CPV17 Ryan Mendes - Cape Verde · Player · Base · Player: Ryan Mendes
+18. CPV18 Dailon Livramento - Cape Verde · Player · Base · Player: Dailon Livramento
+19. CPV19 Willy Semedo - Cape Verde · Player · Base · Player: Willy Semedo
+20. CPV20 Bebe - Cape Verde · Player · Base · Player: Bebe
+
+Saudi ArabiaGroup H · 20 stickers
+
+1. KSA1 Team Logo - Saudi Arabia · Team Badge · Foil
+2. KSA2 Team Logo - Saudi Arabia · Team Badge · Foil
+3. KSA3 Abdulrahman Al-Sanbi - Saudi Arabia · Player · Base · Player: Abdulrahman Al-Sanbi
+4. KSA4 Saud Abdulhamid - Saudi Arabia · Player · Base · Player: Saud Abdulhamid
+5. KSA5 Nawaf Bouwashl - Saudi Arabia · Player · Base · Player: Nawaf Bouwashl
+6. KSA6 Jihad Thakri - Saudi Arabia · Player · Base · Player: Jihad Thakri
+7. KSA7 Moteb Al-Harbi - Saudi Arabia · Player · Base · Player: Moteb Al-Harbi
+8. KSA8 Hassan Altambakti - Saudi Arabia · Player · Base · Player: Hassan Altambakti
+9. KSA9 Musab Aljuwayr - Saudi Arabia · Player · Base · Player: Musab Aljuwayr
+10. KSA10 Ziyad Aljohani - Saudi Arabia · Player · Base · Player: Ziyad Aljohani
+11. KSA11 Abdullah Alkhaibari - Saudi Arabia · Player · Base · Player: Abdullah Alkhaibari
+12. KSA12 Nasser Aldawsari - Saudi Arabia · Player · Base · Player: Nasser Aldawsari
+13. KSA13 Team Photo - Saudi Arabia · Team Photo · Base
+14. KSA14 Saleh Abu Alshamat - Saudi Arabia · Player · Base · Player: Saleh Abu Alshamat
+15. KSA15 Marwan Alsahafi - Saudi Arabia · Player · Base · Player: Marwan Alsahafi
+16. KSA16 Salem Aldawsari - Saudi Arabia · Player · Base · Player: Salem Aldawsari
+17. KSA17 Abdulrahman Al-Aboud - Saudi Arabia · Player · Base · Player: Abdulrahman Al-Aboud
+18. KSA18 Feras Akbrikan - Saudi Arabia · Player · Base · Player: Feras Akbrikan
+19. KSA19 Saleh Alshehri - Saudi Arabia · Player · Base · Player: Saleh Alshehri
+20. KSA20 Abdullah Al-Hamdan - Saudi Arabia · Player · Base · Player: Abdullah Al-Hamdan
+
+SpainGroup H · 20 stickers
+
+1. ESP1 Team Logo - Spain · Team Badge · Foil
+2. ESP2 Team Logo - Spain · Team Badge · Foil
+3. ESP3 Robin Le Normand - Spain · Player · Base · Player: Robin Le Normand
+4. ESP4 Aymeric Laporte - Spain · Player · Base · Player: Aymeric Laporte
+5. ESP5 Dean Huijsen - Spain · Player · Base · Player: Dean Huijsen
+6. ESP6 Pedro Porro - Spain · Player · Base · Player: Pedro Porro
+7. ESP7 Dani Carvajal - Spain · Player · Base · Player: Dani Carvajal
+8. ESP8 Marc Cucurella - Spain · Player · Base · Player: Marc Cucurella
+9. ESP9 Martín Zubimendi - Spain · Player · Base · Player: Martín Zubimendi
+10. ESP10 Rodri - Spain · Player · Base · Player: Rodri
+11. ESP11 Pedri - Spain · Player · Base · Player: Pedri
+12. ESP12 Fabian Ruiz - Spain · Player · Base · Player: Fabian Ruiz
+13. ESP13 Team Photo - Spain · Team Photo · Base
+14. ESP14 Mikel Merino - Spain · Player · Base · Player: Mikel Merino
+15. ESP15 Lamine Yamal - Spain · Player · Base · Player: Lamine Yamal
+16. ESP16 Dani Olmo - Spain · Player · Base · Player: Dani Olmo
+17. ESP17 Nico Williams - Spain · Player · Base · Player: Nico Williams
+18. ESP18 Ferran Torres - Spain · Player · Base · Player: Ferran Torres
+19. ESP19 Álvaro Morata - Spain · Player · Base · Player: Álvaro Morata
+20. ESP20 Mikel Oyarzabal - Spain · Player · Base · Player: Mikel Oyarzabal
+
+UruguayGroup H · 20 stickers
+
+1. URU1 Team Logo - Uruguay · Team Badge · Foil
+2. URU2 Team Logo - Uruguay · Team Badge · Foil
+3. URU3 Santiago Mele - Uruguay · Player · Base · Player: Santiago Mele
+4. URU4 Ronald Araujo - Uruguay · Player · Base · Player: Ronald Araujo
+5. URU5 José María Giménez - Uruguay · Player · Base · Player: José María Giménez
+6. URU6 Sebastian Caceres - Uruguay · Player · Base · Player: Sebastian Caceres
+7. URU7 Mathias Olivera - Uruguay · Player · Base · Player: Mathias Olivera
+8. URU8 Guillermo Varela - Uruguay · Player · Base · Player: Guillermo Varela
+9. URU9 Nahitan Nandez - Uruguay · Player · Base · Player: Nahitan Nandez
+10. URU10 Federico Valverde - Uruguay · Player · Base · Player: Federico Valverde
+11. URU11 Giorgian De Arrascaeta - Uruguay · Player · Base · Player: Giorgian De Arrascaeta
+12. URU12 Rodrigo Bentancur - Uruguay · Player · Base · Player: Rodrigo Bentancur
+13. URU13 Team Photo - Uruguay · Team Photo · Base
+14. URU14 Manuel Ugarte - Uruguay · Player · Base · Player: Manuel Ugarte
+15. URU15 Nicolás de la Cruz - Uruguay · Player · Base · Player: Nicolás de la Cruz
+16. URU16 Maxi Araujo - Uruguay · Player · Base · Player: Maxi Araujo
+17. URU17 Darwin Núñez - Uruguay · Player · Base · Player: Darwin Núñez
+18. URU18 Federico Viñas - Uruguay · Player · Base · Player: Federico Viñas
+19. URU19 Rodrigo Aguirre - Uruguay · Player · Base · Player: Rodrigo Aguirre
+20. URU20 Facundo Pellistri - Uruguay · Player · Base · Player: Facundo Pellistri
+
+FranceGroup I · 20 stickers
+
+1. FRA1 Team Logo - France · Team Badge · Foil
+2. FRA2 Team Logo - France · Team Badge · Foil
+3. FRA3 Theo Hernandez - France · Player · Base · Player: Theo Hernandez
+4. FRA4 William Saliba - France · Player · Base · Player: William Saliba
+5. FRA5 Jules Kounde - France · Player · Base · Player: Jules Kounde
+6. FRA6 Ibrahima Konate - France · Player · Base · Player: Ibrahima Konate
+7. FRA7 Dayot Upamecano - France · Player · Base · Player: Dayot Upamecano
+8. FRA8 Lucas Digne - France · Player · Base · Player: Lucas Digne
+9. FRA9 Aurélien Tchouaméni - France · Player · Base · Player: Aurélien Tchouaméni
+10. FRA10 Eduardo Camavinga - France · Player · Base · Player: Eduardo Camavinga
+11. FRA11 Manu Kone - France · Player · Base · Player: Manu Kone
+12. FRA12 Adrien Rabiot - France · Player · Base · Player: Adrien Rabiot
+13. FRA13 Team Photo - France · Team Photo · Base
+14. FRA14 Michael Olise - France · Player · Base · Player: Michael Olise
+15. FRA15 Ousmane Dembele - France · Player · Base · Player: Ousmane Dembele
+16. FRA16 Bradley Barcola - France · Player · Base · Player: Bradley Barcola
+17. FRA17 Désiré Doué - France · Player · Base · Player: Désiré Doué
+18. FRA18 Kingsley Coman - France · Player · Base · Player: Kingsley Coman
+19. FRA19 Hugo Ekitike - France · Player · Base · Player: Hugo Ekitike
+20. FRA20 Kylian Mbappe - France · Player · Base · Player: Kylian Mbappe
+
+IraqGroup I · 20 stickers
+
+1. IRQ1 Team Logo - Iraq · Team Badge · Foil
+2. IRQ2 Team Logo - Iraq · Team Badge · Foil
+3. IRQ3 Rebin Sulaka - Iraq · Player · Base · Player: Rebin Sulaka
+4. IRQ4 Hussein Ali - Iraq · Player · Base · Player: Hussein Ali
+5. IRQ5 Akam Hashem - Iraq · Player · Base · Player: Akam Hashem
+6. IRQ6 Merchas Doski - Iraq · Player · Base · Player: Merchas Doski
+7. IRQ7 Zaid Tahseen - Iraq · Player · Base · Player: Zaid Tahseen
+8. IRQ8 Manaf Younis - Iraq · Player · Base · Player: Manaf Younis
+9. IRQ9 Zidane Iqbal - Iraq · Player · Base · Player: Zidane Iqbal
+10. IRQ10 Amir Al-Ammari - Iraq · Player · Base · Player: Amir Al-Ammari
+11. IRQ11 Ibrahim Bavesh - Iraq · Player · Base · Player: Ibrahim Bavesh
+12. IRQ12 Ali Jasim - Iraq · Player · Base · Player: Ali Jasim
+13. IRQ13 Team Photo - Iraq · Team Photo · Base
+14. IRQ14 Youssef Amyn - Iraq · Player · Base · Player: Youssef Amyn
+15. IRQ15 Aimar Sher - Iraq · Player · Base · Player: Aimar Sher
+16. IRQ16 Marko Farji - Iraq · Player · Base · Player: Marko Farji
+17. IRQ17 Osama Rashid - Iraq · Player · Base · Player: Osama Rashid
+18. IRQ18 Ali Al-Hamadi - Iraq · Player · Base · Player: Ali Al-Hamadi
+19. IRQ19 Aymen Hussein - Iraq · Player · Base · Player: Aymen Hussein
+20. IRQ20 Mohanad Ali - Iraq · Player · Base · Player: Mohanad Ali
+
+NorwayGroup I · 20 stickers
+
+1. NOR1 Team Logo - Norway · Team Badge · Foil
+2. NOR2 Team Logo - Norway · Team Badge · Foil
+3. NOR3 Julian Ryerson - Norway · Player · Base · Player: Julian Ryerson
+4. NOR4 Leo Ostigård - Norway · Player · Base · Player: Leo Ostigård
+5. NOR5 Kristoffer Vassbakk Ajer - Norway · Player · Base · Player: Kristoffer Vassbakk Ajer
+6. NOR6 Marcus Holmgren Pedersen - Norway · Player · Base · Player: Marcus Holmgren Pedersen
+7. NOR7 David Møller Wolfe - Norway · Player · Base · Player: David Møller Wolfe
+8. NOR8 Torbjørn Heggem - Norway · Player · Base · Player: Torbjørn Heggem
+9. NOR9 Morten Thorsby - Norway · Player · Base · Player: Morten Thorsby
+10. NOR10 Martin Ødegaard - Norway · Player · Base · Player: Martin Ødegaard
+11. NOR11 Sander Berge - Norway · Player · Base · Player: Sander Berge
+12. NOR12 Andreas Schjelderup - Norway · Player · Base · Player: Andreas Schjelderup
+13. NOR13 Team Photo - Norway · Team Photo · Base
+14. NOR14 Patrick Berg - Norway · Player · Base · Player: Patrick Berg
+15. NOR15 Erling Haaland - Norway · Player · Base · Player: Erling Haaland
+16. NOR16 Alexander Sørloth - Norway · Player · Base · Player: Alexander Sørloth
+17. NOR17 Aron Dønnum - Norway · Player · Base · Player: Aron Dønnum
+18. NOR18 Jorgen Strand Larsen - Norway · Player · Base · Player: Jorgen Strand Larsen
+19. NOR19 Antonio Nusa - Norway · Player · Base · Player: Antonio Nusa
+20. NOR20 Oscar Bobb - Norway · Player · Base · Player: Oscar Bobb
+
+SenegalGroup I · 20 stickers
+
+1. SEN1 Team Logo - Senegal · Team Badge · Foil
+2. SEN2 Team Logo - Senegal · Team Badge · Foil
+3. SEN3 Yehvann Diouf - Senegal · Player · Base · Player: Yehvann Diouf
+4. SEN4 Moussa Niakhaté - Senegal · Player · Base · Player: Moussa Niakhaté
+5. SEN5 Abdoulaye Seck - Senegal · Player · Base · Player: Abdoulaye Seck
+6. SEN6 Ismail Jakobs - Senegal · Player · Base · Player: Ismail Jakobs
+7. SEN7 El Hadji Malick Diouf - Senegal · Player · Base · Player: El Hadji Malick Diouf
+8. SEN8 Kalidou Koulibaly - Senegal · Player · Base · Player: Kalidou Koulibaly
+9. SEN9 Idrissa Gana Gueye - Senegal · Player · Base · Player: Idrissa Gana Gueye
+10. SEN10 Pape Matar Sarr - Senegal · Player · Base · Player: Pape Matar Sarr
+11. SEN11 Pape Gueye - Senegal · Player · Base · Player: Pape Gueye
+12. SEN12 Habib Diarra - Senegal · Player · Base · Player: Habib Diarra
+13. SEN13 Team Photo - Senegal · Team Photo · Base
+14. SEN14 Lamine Camara - Senegal · Player · Base · Player: Lamine Camara
+15. SEN15 Sadio Mane - Senegal · Player · Base · Player: Sadio Mane
+16. SEN16 Ismaïla Sarr - Senegal · Player · Base · Player: Ismaïla Sarr
+17. SEN17 Boulaye Dia - Senegal · Player · Base · Player: Boulaye Dia
+18. SEN18 Iliman Ndiaye - Senegal · Player · Base · Player: Iliman Ndiaye
+19. SEN19 Nicolas Jackson - Senegal · Player · Base · Player: Nicolas Jackson
+20. SEN20 Krepin Diatta - Senegal · Player · Base · Player: Krepin Diatta
+
+AlgeriaGroup J · 20 stickers
+
+1. ALG1 Team Logo - Algeria · Team Badge · Foil
+2. ALG2 Team Logo - Algeria · Team Badge · Foil
+3. ALG3 Ramy Bensebaini - Algeria · Player · Base · Player: Ramy Bensebaini
+4. ALG4 Youcef Atal - Algeria · Player · Base · Player: Youcef Atal
+5. ALG5 Rayan Aït-Nouri - Algeria · Player · Base · Player: Rayan Aït-Nouri
+6. ALG6 Mohamed Amine Tougai - Algeria · Player · Base · Player: Mohamed Amine Tougai
+7. ALG7 Aïssa Mandi - Algeria · Player · Base · Player: Aïssa Mandi
+8. ALG8 Ismael Bennacer - Algeria · Player · Base · Player: Ismael Bennacer
+9. ALG9 Houssem Aquar - Algeria · Player · Base · Player: Houssem Aquar
+10. ALG10 Hicham Boudaoui - Algeria · Player · Base · Player: Hicham Boudaoui
+11. ALG11 Ramiz Zerrouki - Algeria · Player · Base · Player: Ramiz Zerrouki
+12. ALG12 Nabil Bentalab - Algeria · Player · Base · Player: Nabil Bentalab
+13. ALG13 Team Photo - Algeria · Team Photo · Base
+14. ALG14 Farés Chaibi - Algeria · Player · Base · Player: Farés Chaibi
+15. ALG15 Riyad Mahrez - Algeria · Player · Base · Player: Riyad Mahrez
+16. ALG16 Said Benrahma - Algeria · Player · Base · Player: Said Benrahma
+17. ALG17 Anis Hadj Moussa - Algeria · Player · Base · Player: Anis Hadj Moussa
+18. ALG18 Amine Gouiri - Algeria · Player · Base · Player: Amine Gouiri
+19. ALG19 Baghdad Bounedjah - Algeria · Player · Base · Player: Baghdad Bounedjah
+20. ALG20 Mohammed Amoura - Algeria · Player · Base · Player: Mohammed Amoura
+
+ArgentinaGroup J · 20 stickers
+
+1. ARG1 Team Logo - Argentina · Team Badge · Foil
+2. ARG2 Team Logo - Argentina · Team Badge · Foil
+3. ARG3 Nahuel Molina - Argentina · Player · Base · Player: Nahuel Molina
+4. ARG4 Cristian Romero - Argentina · Player · Base · Player: Cristian Romero
+5. ARG5 Nicolas Otamendi - Argentina · Player · Base · Player: Nicolas Otamendi
+6. ARG6 Nicolas Tagliafico - Argentina · Player · Base · Player: Nicolas Tagliafico
+7. ARG7 Leonardo Balerdi - Argentina · Player · Base · Player: Leonardo Balerdi
+8. ARG8 Enzo Fernandez - Argentina · Player · Base · Player: Enzo Fernandez
+9. ARG9 Alexis Mac Allister - Argentina · Player · Base · Player: Alexis Mac Allister
+10. ARG10 Rodrigo De Paul - Argentina · Player · Base · Player: Rodrigo De Paul
+11. ARG11 Exequiel Palacios - Argentina · Player · Base · Player: Exequiel Palacios
+12. ARG12 Leandro Paredes - Argentina · Player · Base · Player: Leandro Paredes
+13. ARG13 Team Photo - Argentina · Team Photo · Base
+14. ARG14 Nico Paz - Argentina · Player · Base · Player: Nico Paz
+15. ARG15 Franco Mastantuono - Argentina · Player · Base · Player: Franco Mastantuono
+16. ARG16 Nico Gonzalez - Argentina · Player · Base · Player: Nico Gonzalez
+17. ARG17 Lionel Messi - Argentina · Player · Base · Player: Lionel Messi
+18. ARG18 Lautaro Martinez - Argentina · Player · Base · Player: Lautaro Martinez
+19. ARG19 Julian Alvarez - Argentina · Player · Base · Player: Julian Alvarez
+20. ARG20 Giuliano Simeone - Argentina · Player · Base · Player: Giuliano Simeone
+
+AustriaGroup J · 20 stickers
+
+1. AUT1 Team Logo - Austria · Team Badge · Foil
+2. AUT2 Team Logo - Austria · Team Badge · Foil
+3. AUT3 Patrick Pentz - Austria · Player · Base · Player: Patrick Pentz
+4. AUT4 David Alaba - Austria · Player · Base · Player: David Alaba
+5. AUT5 Kevin Danso - Austria · Player · Base · Player: Kevin Danso
+6. AUT6 Philipp Lienhart - Austria · Player · Base · Player: Philipp Lienhart
+7. AUT7 Stefan Posch - Austria · Player · Base · Player: Stefan Posch
+8. AUT8 Phillipp Mwene - Austria · Player · Base · Player: Phillipp Mwene
+9. AUT9 Alexander Prass - Austria · Player · Base · Player: Alexander Prass
+10. AUT10 Xaver Schlager - Austria · Player · Base · Player: Xaver Schlager
+11. AUT11 Marcel Sabitzer - Austria · Player · Base · Player: Marcel Sabitzer
+12. AUT12 Konrad Laimer - Austria · Player · Base · Player: Konrad Laimer
+13. AUT13 Team Photo - Austria · Team Photo · Base
+14. AUT14 Florian Grillitsch - Austria · Player · Base · Player: Florian Grillitsch
+15. AUT15 Nicolas Seiwald - Austria · Player · Base · Player: Nicolas Seiwald
+16. AUT16 Romano Schmid - Austria · Player · Base · Player: Romano Schmid
+17. AUT17 Patrick Wimmer - Austria · Player · Base · Player: Patrick Wimmer
+18. AUT18 Christoph Baumgartner - Austria · Player · Base · Player: Christoph Baumgartner
+19. AUT19 Michael Gregoritsch - Austria · Player · Base · Player: Michael Gregoritsch
+20. AUT20 Marko Arnautović - Austria · Player · Base · Player: Marko Arnautović
+
+JordanGroup J · 20 stickers
+
+1. JOR1 Team Logo - Jordan · Team Badge · Foil
+2. JOR2 Team Logo - Jordan · Team Badge · Foil
+3. JOR3 Ihsan Haddad - Jordan · Player · Base · Player: Ihsan Haddad
+4. JOR4 Mohammad Abu Hashish - Jordan · Player · Base · Player: Mohammad Abu Hashish
+5. JOR5 Yazan Al-Arab - Jordan · Player · Base · Player: Yazan Al-Arab
+6. JOR6 Abdallah Nasib - Jordan · Player · Base · Player: Abdallah Nasib
+7. JOR7 Saleem Obaid - Jordan · Player · Base · Player: Saleem Obaid
+8. JOR8 Mohammad Abualnadi - Jordan · Player · Base · Player: Mohammad Abualnadi
+9. JOR9 Ibrahim Saadeh - Jordan · Player · Base · Player: Ibrahim Saadeh
+10. JOR10 Nizar Al-Rashdan - Jordan · Player · Base · Player: Nizar Al-Rashdan
+11. JOR11 Noor Al-Rawabdeh - Jordan · Player · Base · Player: Noor Al-Rawabdeh
+12. JOR12 Mohannad Abu Taha - Jordan · Player · Base · Player: Mohannad Abu Taha
+13. JOR13 Team Photo - Jordan · Team Photo · Base
+14. JOR14 Amer Jamous - Jordan · Player · Base · Player: Amer Jamous
+15. JOR15 Musa Al-Taamari - Jordan · Player · Base · Player: Musa Al-Taamari
+16. JOR16 Yazan Al-Naimat - Jordan · Player · Base · Player: Yazan Al-Naimat
+17. JOR17 Mahmoud Al-Mardi - Jordan · Player · Base · Player: Mahmoud Al-Mardi
+18. JOR18 Ali Olwan - Jordan · Player · Base · Player: Ali Olwan
+19. JOR19 Mohammad Abu Zrayq - Jordan · Player · Base · Player: Mohammad Abu Zrayq
+20. JOR20 Ibrahim Sabra - Jordan · Player · Base · Player: Ibrahim Sabra
+
+ColombiaGroup K · 20 stickers
+
+1. COL1 Team Logo - Colombia · Team Badge · Foil
+2. COL2 Team Logo - Colombia · Team Badge · Foil
+3. COL3 David Ospina - Colombia · Player · Base · Player: David Ospina
+4. COL4 Dávinson Sánchez - Colombia · Player · Base · Player: Dávinson Sánchez
+5. COL5 Yerry Mina - Colombia · Player · Base · Player: Yerry Mina
+6. COL6 Daniel Munoz - Colombia · Player · Base · Player: Daniel Munoz
+7. COL7 Johan Mojica - Colombia · Player · Base · Player: Johan Mojica
+8. COL8 Jhon Lucumí - Colombia · Player · Base · Player: Jhon Lucumí
+9. COL9 Santiago Arias - Colombia · Player · Base · Player: Santiago Arias
+10. COL10 Jefferson Lerma - Colombia · Player · Base · Player: Jefferson Lerma
+11. COL11 Kevin Castaño - Colombia · Player · Base · Player: Kevin Castaño
+12. COL12 Richard Rios - Colombia · Player · Base · Player: Richard Rios
+13. COL13 Team Photo - Colombia · Team Photo · Base
+14. COL14 James Rodriguez - Colombia · Player · Base · Player: James Rodriguez
+15. COL15 Juan Fernando Quintero - Colombia · Player · Base · Player: Juan Fernando Quintero
+16. COL16 Jorge Carrascal - Colombia · Player · Base · Player: Jorge Carrascal
+17. COL17 Jon Arias - Colombia · Player · Base · Player: Jon Arias
+18. COL18 Jhon Cordova - Colombia · Player · Base · Player: Jhon Cordova
+19. COL19 Luis Suarez - Colombia · Player · Base · Player: Luis Suarez
+20. COL20 Luis Diaz - Colombia · Player · Base · Player: Luis Diaz
+
+DR CongoGroup K · 20 stickers
+
+1. COD1 Team Logo - Congo DR · Team Badge · Foil
+2. COD2 Team Logo - Congo DR · Team Badge · Foil
+3. COD3 Aaron Wan-Bissaka - Congo DR · Player · Base · Player: Aaron Wan-Bissaka
+4. COD4 Axel Tuanzebe - Congo DR · Player · Base · Player: Axel Tuanzebe
+5. COD5 Arthur Masuaku - Congo DR · Player · Base · Player: Arthur Masuaku
+6. COD6 Chancel Mbemba - Congo DR · Player · Base · Player: Chancel Mbemba
+7. COD7 Joris Kayembe - Congo DR · Player · Base · Player: Joris Kayembe
+8. COD8 Charles Pickel - Congo DR · Player · Base · Player: Charles Pickel
+9. COD9 Ngal'ayel Mukau - Congo DR · Player · Base · Player: Ngal'ayel Mukau
+10. COD10 Edo Kayembe - Congo DR · Player · Base · Player: Edo Kayembe
+11. COD11 Samuel Moutoussamy - Congo DR · Player · Base · Player: Samuel Moutoussamy
+12. COD12 Noah Sadiki - Congo DR · Player · Base · Player: Noah Sadiki
+13. COD13 Team Photo - Congo DR · Team Photo · Base
+14. COD14 Théo Bongonda - Congo DR · Player · Base · Player: Théo Bongonda
+15. COD15 Meschak Elia - Congo DR · Player · Base · Player: Meschak Elia
+16. COD16 Yoane Wissa - Congo DR · Player · Base · Player: Yoane Wissa
+17. COD17 Brian Cipenga - Congo DR · Player · Base · Player: Brian Cipenga
+18. COD18 Fiston Mayele - Congo DR · Player · Base · Player: Fiston Mayele
+19. COD19 Cédric Bakambu - Congo DR · Player · Base · Player: Cédric Bakambu
+20. COD20 Nathanaël Mbuku - Congo DR · Player · Base · Player: Nathanaël Mbuku
+
+PortugalGroup K · 20 stickers
+
+1. POR1 Team Logo - Portugal · Team Badge · Foil
+2. POR2 Team Logo - Portugal · Team Badge · Foil
+3. POR3 Jose Sa - Portugal · Player · Base · Player: Jose Sa
+4. POR4 Ruben Dias - Portugal · Player · Base · Player: Ruben Dias
+5. POR5 João Cancelo - Portugal · Player · Base · Player: João Cancelo
+6. POR6 Diogo Dalot - Portugal · Player · Base · Player: Diogo Dalot
+7. POR7 Nuno Mendes - Portugal · Player · Base · Player: Nuno Mendes
+8. POR8 Gonçalo Inácio - Portugal · Player · Base · Player: Gonçalo Inácio
+9. POR9 Bernardo Silva - Portugal · Player · Base · Player: Bernardo Silva
+10. POR10 Bruno Fernandes - Portugal · Player · Base · Player: Bruno Fernandes
+11. POR11 Ruben Neves - Portugal · Player · Base · Player: Ruben Neves
+12. POR12 Vitinha - Portugal · Player · Base · Player: Vitinha
+13. POR13 Team Photo - Portugal · Team Photo · Base
+14. POR14 João Neves - Portugal · Player · Base · Player: João Neves
+15. POR15 Cristiano Ronaldo - Portugal · Player · Base · Player: Cristiano Ronaldo
+16. POR16 Francisco Trincao - Portugal · Player · Base · Player: Francisco Trincao
+17. POR17 João Felix - Portugal · Player · Base · Player: João Felix
+18. POR18 Gonçalo Ramos - Portugal · Player · Base · Player: Gonçalo Ramos
+19. POR19 Pedro Neto - Portugal · Player · Base · Player: Pedro Neto
+20. POR20 Rafael Leão - Portugal · Player · Base · Player: Rafael Leão
+
+UzbekistanGroup K · 20 stickers
+
+1. UZB1 Team Logo - Uzbekistan · Team Badge · Foil
+2. UZB2 Team Logo - Uzbekistan · Team Badge · Foil
+3. UZB3 Farrukh Savfiev - Uzbekistan · Player · Base · Player: Farrukh Savfiev
+4. UZB4 Sherzod Nasrullaev - Uzbekistan · Player · Base · Player: Sherzod Nasrullaev
+5. UZB5 Umar Eshmurodov - Uzbekistan · Player · Base · Player: Umar Eshmurodov
+6. UZB6 Husniddin Aliqulov - Uzbekistan · Player · Base · Player: Husniddin Aliqulov
+7. UZB7 Rustamjon Ashurmatov - Uzbekistan · Player · Base · Player: Rustamjon Ashurmatov
+8. UZB8 Khojiakbar Alijonov - Uzbekistan · Player · Base · Player: Khojiakbar Alijonov
+9. UZB9 Abdukodir Khusanov - Uzbekistan · Player · Base · Player: Abdukodir Khusanov
+10. UZB10 Odiljon Hamrobekov - Uzbekistan · Player · Base · Player: Odiljon Hamrobekov
+11. UZB11 Otabek Shukurov - Uzbekistan · Player · Base · Player: Otabek Shukurov
+12. UZB12 Jamshid Iskanderov - Uzbekistan · Player · Base · Player: Jamshid Iskanderov
+13. UZB13 Team Photo - Uzbekistan · Team Photo · Base
+14. UZB14 Azizbek Turgunboev - Uzbekistan · Player · Base · Player: Azizbek Turgunboev
+15. UZB15 Khojimat Erkinov - Uzbekistan · Player · Base · Player: Khojimat Erkinov
+16. UZB16 Eldor Shomurodov - Uzbekistan · Player · Base · Player: Eldor Shomurodov
+17. UZB17 Oston Urunov - Uzbekistan · Player · Base · Player: Oston Urunov
+18. UZB18 Jaloliddin Masharipov - Uzbekistan · Player · Base · Player: Jaloliddin Masharipov
+19. UZB19 Igor Sergeev - Uzbekistan · Player · Base · Player: Igor Sergeev
+20. UZB20 Abbosbek Fayzullaev - Uzbekistan · Player · Base · Player: Abbosbek Fayzullaev
+
+CroatiaGroup L · 20 stickers
+
+1. CRO1 Team Logo - Croatia · Team Badge · Foil
+2. CRO2 Team Logo - Croatia · Team Badge · Foil
+3. CRO3 Duje Caleta-Car - Croatia · Player · Base · Player: Duje Caleta-Car
+4. CRO4 Josko Gvardiol - Croatia · Player · Base · Player: Josko Gvardiol
+5. CRO5 Josip Stanišić - Croatia · Player · Base · Player: Josip Stanišić
+6. CRO6 Luka Vušković - Croatia · Player · Base · Player: Luka Vušković
+7. CRO7 Josip Sutalo - Croatia · Player · Base · Player: Josip Sutalo
+8. CRO8 Kristijan Jakic - Croatia · Player · Base · Player: Kristijan Jakic
+9. CRO9 Luka Modrić - Croatia · Player · Base · Player: Luka Modrić
+10. CRO10 Mateo Kovacic - Croatia · Player · Base · Player: Mateo Kovacic
+11. CRO11 Martin Baturina - Croatia · Player · Base · Player: Martin Baturina
+12. CRO12 Lovro Majer - Croatia · Player · Base · Player: Lovro Majer
+13. CRO13 Team Photo - Croatia · Team Photo · Base
+14. CRO14 Mario Pasalic - Croatia · Player · Base · Player: Mario Pasalic
+15. CRO15 Petar Sucic - Croatia · Player · Base · Player: Petar Sucic
+16. CRO16 Ivan Perišić - Croatia · Player · Base · Player: Ivan Perišić
+17. CRO17 Marco Pasalic - Croatia · Player · Base · Player: Marco Pasalic
+18. CRO18 Ante Budimir - Croatia · Player · Base · Player: Ante Budimir
+19. CRO19 Andrej Kramarić - Croatia · Player · Base · Player: Andrej Kramarić
+20. CRO20 Franjo Ivanovic - Croatia · Player · Base · Player: Franjo Ivanovic
+
+EnglandGroup L · 20 stickers
+
+1. ENG1 Team Logo - England · Team Badge · Foil
+2. ENG2 Team Logo - England · Team Badge · Foil
+3. ENG3 John Stones - England · Player · Base · Player: John Stones
+4. ENG4 Marc Guéhi - England · Player · Base · Player: Marc Guéhi
+5. ENG5 Ezri Konsa - England · Player · Base · Player: Ezri Konsa
+6. ENG6 Trent Alexander-Arnold - England · Player · Base · Player: Trent Alexander-Arnold
+7. ENG7 Reece James - England · Player · Base · Player: Reece James
+8. ENG8 Dan Burn - England · Player · Base · Player: Dan Burn
+9. ENG9 Jordan Henderson - England · Player · Base · Player: Jordan Henderson
+10. ENG10 Declan Rice - England · Player · Base · Player: Declan Rice
+11. ENG11 Jude Bellingham - England · Player · Base · Player: Jude Bellingham
+12. ENG12 Cole Palmer - England · Player · Base · Player: Cole Palmer
+13. ENG13 Team Photo - England · Team Photo · Base
+14. ENG14 Morgan Rogers - England · Player · Base · Player: Morgan Rogers
+15. ENG15 Anthony Gordon - England · Player · Base · Player: Anthony Gordon
+16. ENG16 Phil Foden - England · Player · Base · Player: Phil Foden
+17. ENG17 Bukayo Saka - England · Player · Base · Player: Bukayo Saka
+18. ENG18 Harry Kane - England · Player · Base · Player: Harry Kane
+19. ENG19 Marcus Rashford - England · Player · Base · Player: Marcus Rashford
+20. ENG20 Ollie Watkins - England · Player · Base · Player: Ollie Watkins
+
+GhanaGroup L · 20 stickers
+
+1. GHA1 Team Logo - Ghana · Team Badge · Foil
+2. GHA2 Team Logo - Ghana · Team Badge · Foil
+3. GHA3 Tariq Lamptey - Ghana · Player · Base · Player: Tariq Lamptey
+4. GHA4 Mohammed Salisu - Ghana · Player · Base · Player: Mohammed Salisu
+5. GHA5 Alidu Seidu - Ghana · Player · Base · Player: Alidu Seidu
+6. GHA6 Alexander Djiku - Ghana · Player · Base · Player: Alexander Djiku
+7. GHA7 Gideon Mensah - Ghana · Player · Base · Player: Gideon Mensah
+8. GHA8 Caleb Yirenkyi - Ghana · Player · Base · Player: Caleb Yirenkyi
+9. GHA9 Abdul Issahaku Fatawu - Ghana · Player · Base · Player: Abdul Issahaku Fatawu
+10. GHA10 Thomas Partey - Ghana · Player · Base · Player: Thomas Partey
+11. GHA11 Salis Abdul Samed - Ghana · Player · Base · Player: Salis Abdul Samed
+12. GHA12 Kamaldeen Sulemana - Ghana · Player · Base · Player: Kamaldeen Sulemana
+13. GHA13 Team Photo - Ghana · Team Photo · Base
+14. GHA14 Mohammed Kudus - Ghana · Player · Base · Player: Mohammed Kudus
+15. GHA15 Inaki Williams - Ghana · Player · Base · Player: Inaki Williams
+16. GHA16 Jordan Ayew - Ghana · Player · Base · Player: Jordan Ayew
+17. GHA17 Andrew Ayew - Ghana · Player · Base · Player: Andrew Ayew
+18. GHA18 Joseph Paintsil - Ghana · Player · Base · Player: Joseph Paintsil
+19. GHA19 Osman Bukari - Ghana · Player · Base · Player: Osman Bukari
+20. GHA20 Antoine Semenyo - Ghana · Player · Base · Player: Antoine Semenyo
+
+PanamaGroup L · 20 stickers
+
+1. PAN1 Team Logo - Panama · Team Badge · Foil
+2. PAN2 Team Logo - Panama · Team Badge · Foil
+3. PAN3 Luis Mejia - Panama · Player · Base · Player: Luis Mejia
+4. PAN4 Fidel Escobar - Panama · Player · Base · Player: Fidel Escobar
+5. PAN5 Andres Andrade - Panama · Player · Base · Player: Andres Andrade
+6. PAN6 Michael Amir Murillo - Panama · Player · Base · Player: Michael Amir Murillo
+7. PAN7 Eric Davis - Panama · Player · Base · Player: Eric Davis
+8. PAN8 Jose Cordoba - Panama · Player · Base · Player: Jose Cordoba
+9. PAN9 Cesar Blackman - Panama · Player · Base · Player: Cesar Blackman
+10. PAN10 Cristian Martinez - Panama · Player · Base · Player: Cristian Martinez
+11. PAN11 Aníbal Godoy - Panama · Player · Base · Player: Aníbal Godoy
+12. PAN12 Adalberto Carrasquilla - Panama · Player · Base · Player: Adalberto Carrasquilla
+13. PAN13 Team Photo - Panama · Team Photo · Base
+14. PAN14 Édgar Bárcenas - Panama · Player · Base · Player: Édgar Bárcenas
+15. PAN15 Carlos Harvey - Panama · Player · Base · Player: Carlos Harvey
+16. PAN16 Ismael Díaz - Panama · Player · Base · Player: Ismael Díaz
+17. PAN17 Jose Fajardo - Panama · Player · Base · Player: Jose Fajardo
+18. PAN18 Cecilio Waterman - Panama · Player · Base · Player: Cecilio Waterman
+19. PAN19 Jose Luiz Rodriguez - Panama · Player · Base · Player: Jose Luiz Rodriguez
+20. PAN20 Alberto Quintero - Panama · Player · Base · Player: Alberto Quintero
+
+CollectionOther · 1 stickers
+
+1. 00 Panini Logo · Brand / Emblem · Foil
+
+FIFA World Cup 2026Other · 16 stickers
+
+1. FWC1 Official Emblem · Brand / Emblem · Foil
+2. FWC2 Official Emblem · Brand / Emblem · Foil
+3. FWC3 Official Mascots · Host / Tournament · Foil
+4. FWC4 Official Slogan · Host / Tournament · Foil
+5. FWC5 Official Ball · Host / Tournament · Foil
+6. FWC9 Italy 1934 - FIFA Museum · FIFA Museum · Foil
+7. FWC10 Uruguay 1950 - FIFA Museum · FIFA Museum · Foil
+8. FWC11 West Germany 1954 - FIFA Museum · FIFA Museum · Foil
+9. FWC12 Brazil 1962 - FIFA Museum · FIFA Museum · Foil
+10. FWC13 West Germany 1974 - FIFA Museum · FIFA Museum · Foil
+11. FWC14 Argentina 1986 - FIFA Museum · FIFA Museum · Foil
+12. FWC15 Brazil 1994 - FIFA Museum · FIFA Museum · Foil
+13. FWC16 Brazil 2002 - FIFA Museum · FIFA Museum · Foil
+14. FWC17 Italy 2006 - FIFA Museum · FIFA Museum · Foil
+15. FWC18 Germany 2014 - FIFA Museum · FIFA Museum · Foil
+16. FWC19 Argentina 2022 - FIFA Museum · FIFA Museum · Foil
+
+## Continue your sticker collection journey
+
+### Sticker tracker
+
+Watch your completion percentage rise by team and by group.
+
+### Missing stickers list
+
+Copy or export trade-ready lists from your saved progress.
+
+### Completion strategy guide
+
+Four-phase plan, budget framing, and pack-by-pack maths.
+
+## Checklist FAQ
+
+Common questions specifically about the checklist tool. General questions about the project are answered on the homepage.
+
+How is the 980-sticker checklist structured?
+
+The checklist follows the same order as the official Panini album. The first 9 entries are opening stickers (logo, two emblems, mascots, slogan, ball, and three host country foils). Stickers FWC9 to FWC19 are the FIFA Museum foils for selected past World Cup champions. The remaining 960 entries are the 48 team sections of 20 stickers each.
+
+What filters does the checklist support?
+
+You can filter by World Cup group (A through L), by team, by sticker category (Brand / Emblem, Host / Tournament, FIFA Museum, Team Badge, Team Photo, Player), by rarity (Base or Foil), and by owned status. Search works on sticker code, player name, and team name simultaneously.
+
+What is the fastest way to mark a full box opening?
+
+Use the bulk entry box at the top of the checklist tool. Paste every code you pulled, separated by spaces or commas, and click Mark Owned. The tool processes every code in one click and updates both the tracker dashboard and the missing list immediately.
+
+How do I track duplicate stickers in the checklist?
+
+Each sticker card has a duplicate counter with plus and minus buttons. Every time you pull an extra copy, increment the counter. The duplicate value is used by the missing list tool to generate trade-ready exports.
