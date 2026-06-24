@@ -49,7 +49,7 @@ git push -u origin main
 | **Deploy command** | `npm run deploy:pages` |
 | **Non-production branch deploy command** | `npm run deploy:pages:preview` |
 | Build output directory | `dist` |
-| Node.js version | `20` |
+| Node.js version | `22` |
 
 > Use `wrangler pages deploy`, **not** `wrangler deploy`. The latter expects a Worker script and will fail on this static Vite app.
 
