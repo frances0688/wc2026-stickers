@@ -1,16 +1,14 @@
 [
   { "code": "CC1", "name": "Lamine Yamal", "country": "Spain" },
   { "code": "CC2", "name": "Joshua Kimmich", "country": "Germany" },
-  { "code": "CC3", "name": "Harry Kane", "country": "England" },
-  { "code": "CC4", "name": "Santiago Giménez", "country": "Mexico" },
-  { "code": "CC5", "name": "Josko Gvardiol", "country": "Croatia", "usVariant": "Antonee Robinson (USA)" },
-  { "code": "CC6", "name": "Federico Valverde", "country": "Uruguay", "usVariant": "Jefferson Lerma (Colombia)" },
-  { "code": "CC7", "name": "Jefferson Lerma", "country": "Colombia" },
-  { "code": "CC8", "name": "Enner Valencia", "country": "Ecuador", "usVariant": "Edson Álvarez (Mexico)" },
-  { "code": "CC9", "name": "Gabriel Magalhães", "country": "Brazil", "usVariant": "Virgil van Dijk (Netherlands)" },
-  { "code": "CC10", "name": "Virgil van Dijk", "country": "Netherlands", "usVariant": "Alphonso Davies (Canada)" },
-  { "code": "CC11", "name": "Alphonso Davies", "country": "Canada", "usVariant": "Weston McKennie (USA)" },
-  { "code": "CC12", "name": "Emiliano Martínez", "country": "Argentina", "usVariant": "Lautaro Martínez (Argentina)" },
-  { "code": "CC13", "name": "Raúl Jiménez", "country": "Mexico", "note": "Latin America set only" },
-  { "code": "CC14", "name": "Lautaro Martínez", "country": "Argentina", "note": "Latin America set only" }
+  { "code": "CC3", "name": "Eduardo Camavinga", "country": "France" },
+  { "code": "CC4", "name": "Joško Gvardiol", "country": "Croatia" },
+  { "code": "CC5", "name": "Federico Valverde", "country": "Uruguay" },
+  { "code": "CC6", "name": "Virgil van Dijk", "country": "Netherlands" },
+  { "code": "CC7", "name": "Alphonso Davies", "country": "Canada" },
+  { "code": "CC8", "name": "Raúl Jiménez", "country": "Mexico" },
+  { "code": "CC9", "name": "William Saliba", "country": "France" },
+  { "code": "CC10", "name": "Lautaro Martínez", "country": "Argentina" },
+  { "code": "CC11", "name": "Harry Kane", "country": "England" },
+  { "code": "CC12", "name": "Antonee Robinson", "country": "United States" }
 ]
