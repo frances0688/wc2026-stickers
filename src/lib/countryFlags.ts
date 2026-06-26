@@ -52,6 +52,7 @@ const FLAGS_BY_COUNTRY: Record<string, string> = {
   "FIFA World Cup 2026": "🏆",
   "Host Countries & Cities": "🌎",
   "FIFA Museum": "🏛️",
+  "Coca-Cola promos": "🔴",
 };
 
 export function countryFlag(country: string): string {

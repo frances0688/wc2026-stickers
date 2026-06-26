@@ -1,6 +1,6 @@
 import { useMemo, useState } from "react";
 import type { StickerWithState } from "../types";
-import { compareByAlbumGroupOrder, formatAlbumOrderExport, formatCountryHeading } from "../lib/worldCupGroups";
+import { compareByAlbumGroupOrder, exportGroupLabel, formatAlbumOrderExport, formatCountryHeading } from "../lib/worldCupGroups";
 import { StickerCard } from "./StickerCard";
 
 interface MissingListProps {
@@ -21,7 +21,8 @@ export function MissingList({ stickers, photoCodes }: MissingListProps) {
         return (
           s.code.toLowerCase().includes(q) ||
           s.name.toLowerCase().includes(q) ||
-          s.country.toLowerCase().includes(q)
+          s.country.toLowerCase().includes(q) ||
+          exportGroupLabel(s).toLowerCase().includes(q)
         );
       });
   }, [stickers, query]);
@@ -29,9 +30,10 @@ export function MissingList({ stickers, photoCodes }: MissingListProps) {
   const byCountry = useMemo(() => {
     const map = new Map<string, StickerWithState[]>();
     for (const s of missing) {
-      const list = map.get(s.country) ?? [];
+      const label = exportGroupLabel(s);
+      const list = map.get(label) ?? [];
       list.push(s);
-      map.set(s.country, list);
+      map.set(label, list);
     }
     for (const list of map.values()) {
       list.sort((a, b) => a.albumOrder - b.albumOrder);
@@ -78,8 +80,8 @@ export function MissingList({ stickers, photoCodes }: MissingListProps) {
           <p className="mt-2">Album complete!</p>
         </div>
       ) : (
-        byCountry.map(([country, list]) => (
-          <section key={country}>
+        byCountry.map(([label, list]) => (
+          <section key={label}>
             <h3 className="mb-2 text-sm font-semibold text-slate-300">
               {formatCountryHeading(list[0])} ({list.length})
             </h3>

@@ -1,6 +1,6 @@
 import { useMemo, useState } from "react";
 import type { StickerWithState } from "../types";
-import { formatCountryHeading, formatDuplicatesExport, sortByAlbumGroupOrder } from "../lib/worldCupGroups";
+import { exportGroupLabel, formatCountryHeading, formatDuplicatesExport, sortByAlbumGroupOrder } from "../lib/worldCupGroups";
 import { StickerCard } from "./StickerCard";
 import { ExchangeModal } from "./ExchangeModal";
 
@@ -25,7 +25,8 @@ export function Duplicates({ stickers, photoCodes, missingStickers, onUpdated }:
       return (
         s.code.toLowerCase().includes(q) ||
         s.name.toLowerCase().includes(q) ||
-        s.country.toLowerCase().includes(q)
+        s.country.toLowerCase().includes(q) ||
+        exportGroupLabel(s).toLowerCase().includes(q)
       );
     });
     return sortByAlbumGroupOrder(filtered);

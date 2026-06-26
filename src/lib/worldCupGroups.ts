@@ -53,6 +53,9 @@ function countryStartOrder(sticker: Sticker): number {
   if (sticker.section === "fwc") {
     return fwcSortIndex(sticker.code);
   }
+  if (sticker.section === "coca_cola") {
+    return sticker.slot ?? sticker.albumOrder;
+  }
   if (sticker.group) {
     const byTeam = teamOrderInGroup(sticker.group, sticker.teamCode);
     if (byTeam !== undefined) return byTeam;
@@ -133,18 +136,26 @@ export function getCountryFilterOptions(stickers: Sticker[]): CountryFilterGroup
 }
 
 export function formatCountryHeading(sticker: Sticker): string {
+  if (sticker.section === "coca_cola") return COCA_COLA_COUNTRY_FILTER;
   if (sticker.group) return `Group ${sticker.group} · ${sticker.country}`;
+  return sticker.country;
+}
+
+/** Label used when grouping stickers for export and list sections. */
+export function exportGroupLabel(sticker: Sticker): string {
+  if (sticker.section === "coca_cola") return COCA_COLA_COUNTRY_FILTER;
   return sticker.country;
 }
 
 function groupByCountryInOrder<T extends Sticker>(stickers: T[]): { country: string; items: T[] }[] {
   const groups: { country: string; items: T[] }[] = [];
   for (const sticker of sortByAlbumGroupOrder(stickers)) {
+    const label = exportGroupLabel(sticker);
     const last = groups[groups.length - 1];
-    if (last?.country === sticker.country) {
+    if (last?.country === label) {
       last.items.push(sticker);
     } else {
-      groups.push({ country: sticker.country, items: [sticker] });
+      groups.push({ country: label, items: [sticker] });
     }
   }
   return groups;
