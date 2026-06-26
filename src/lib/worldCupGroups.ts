@@ -167,7 +167,9 @@ export function formatAlbumOrderExport(stickers: Sticker[]): string {
   return formatGroupedCountryExport(stickers, (s) => s.code);
 }
 
-/** Duplicates: same layout, with xN for each extra copy. */
+/** Duplicates: same layout, with xN only when more than one extra copy. */
 export function formatDuplicatesExport(stickers: Array<Sticker & { extras: number }>): string {
-  return formatGroupedCountryExport(stickers, (s) => `${s.code} x${s.extras}`);
+  return formatGroupedCountryExport(stickers, (s) =>
+    s.extras > 1 ? `${s.code} x${s.extras}` : s.code,
+  );
 }
