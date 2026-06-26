@@ -1,5 +1,6 @@
 import catalog from "../data/stickers.json";
 import { countryOrderInGroup, teamOrderInGroup } from "./albumGroupOrder";
+import { countryFlag } from "./countryFlags";
 import { fwcSortIndex } from "./stickerSections";
 import type { Sticker } from "../types";
 
@@ -136,16 +137,37 @@ export function formatCountryHeading(sticker: Sticker): string {
   return sticker.country;
 }
 
-/** Flat comma-separated codes in album group → country → sticker order. */
-export function formatAlbumOrderExport(stickers: Sticker[]): string {
-  return sortByAlbumGroupOrder(stickers)
-    .map((s) => s.code)
-    .join(", ");
+function groupByCountryInOrder<T extends Sticker>(stickers: T[]): { country: string; items: T[] }[] {
+  const groups: { country: string; items: T[] }[] = [];
+  for (const sticker of sortByAlbumGroupOrder(stickers)) {
+    const last = groups[groups.length - 1];
+    if (last?.country === sticker.country) {
+      last.items.push(sticker);
+    } else {
+      groups.push({ country: sticker.country, items: [sticker] });
+    }
+  }
+  return groups;
 }
 
-/** Like album-order export, but annotates stickers with more than one extra copy. */
+function formatGroupedCountryExport<T extends Sticker>(
+  stickers: T[],
+  formatCode: (sticker: T) => string,
+): string {
+  return groupByCountryInOrder(stickers)
+    .map(({ country, items }) => {
+      const codes = items.map(formatCode).join(", ");
+      return `${countryFlag(country)} ${country}: ${codes}`;
+    })
+    .join("\n");
+}
+
+/** Missing stickers: one line per country in group order, with flag prefix. */
+export function formatAlbumOrderExport(stickers: Sticker[]): string {
+  return formatGroupedCountryExport(stickers, (s) => s.code);
+}
+
+/** Duplicates: same layout, with xN for each extra copy. */
 export function formatDuplicatesExport(stickers: Array<Sticker & { extras: number }>): string {
-  return sortByAlbumGroupOrder(stickers)
-    .map((s) => (s.extras > 1 ? `${s.code} x${s.extras}` : s.code))
-    .join(", ");
+  return formatGroupedCountryExport(stickers, (s) => `${s.code} x${s.extras}`);
 }
